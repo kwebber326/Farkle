@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B23BE722-D2EB-431B-B545-4972BCE27B66}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Farkle</RootNamespace>
+    <AssemblyName>Farkle</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entities\Animations\Animation.cs" />
+    <Compile Include="Entities\Animations\HotDiceAnimation.cs" />
+    <Compile Include="Entities\Animations\JokerAnimation.cs" />
+    <Compile Include="Entities\Animations\PoopEmojiAnimation.cs" />
+    <Compile Include="Entities\Animations\RussianRouletteAnimation.cs" />
+    <Compile Include="Entities\Attributes\WriteData.cs" />
+    <Compile Include="Entities\CommonConstants.cs" />
+    <Compile Include="Entities\CommonRandom.cs" />
+    <Compile Include="Entities\CPUPlayer.cs" />
+    <Compile Include="Entities\CustomEventArgs\GameActionEventArgs.cs" />
+    <Compile Include="Entities\Dice.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Entities\DiceSpriteSheet.cs" />
+    <Compile Include="Entities\Enums\FarkleSettingType.cs" />
+    <Compile Include="Entities\CustomEventArgs\SettingValueEventArgs.cs" />
+    <Compile Include="Entities\FarkleHandCreationFactory.cs" />
+    <Compile Include="Entities\FarkleHands\FiveHand.cs" />
+    <Compile Include="Entities\FarkleHands\FullHouseHand.cs" />
+    <Compile Include="Entities\FarkleHands\StraightHand.cs" />
+    <Compile Include="Entities\FarkleHands\ThreePairHand.cs" />
+    <Compile Include="Entities\FarkleHands\TripletsHand.cs" />
+    <Compile Include="Entities\FarkleHands\XOfAKindHand.cs" />
+    <Compile Include="Entities\FarkleHands\OneHand.cs" />
+    <Compile Include="Entities\FarkleHands\ThreeOfAKindHand.cs" />
+    <Compile Include="Entities\FarkleRuleSet.cs" />
+    <Compile Include="Entities\GameEvents\DiceRollEventArgs.cs" />
+    <Compile Include="Entities\GameEvents\NextTurnEventArgs.cs" />
+    <Compile Include="Entities\GameLogEntry.cs" />
+    <Compile Include="Entities\GameStats.cs" />
+    <Compile Include="Entities\HandValidator.cs" />
+    <Compile Include="Entities\Interfaces\IFarkleHand.cs" />
+    <Compile Include="Entities\Player.cs" />
+    <Compile Include="Entities\PlayerStats.cs" />
+    <Compile Include="Entities\SavableFarkleRuleSet.cs" />
+    <Compile Include="Entities\Utilities\FarkleUtilities.cs" />
+    <Compile Include="FarkleGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FarkleGame.Designer.cs">
+      <DependentUpon>FarkleGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File IO\SettingsUtility.cs" />
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControls\AnimationUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\AnimationUserControl.Designer.cs">
+      <DependentUpon>AnimationUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DiceContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DiceContainer.Designer.cs">
+      <DependentUpon>DiceContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DiceTray.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DiceTray.Designer.cs">
+      <DependentUpon>DiceTray.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FarkleSetting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\FarkleSetting.Designer.cs">
+      <DependentUpon>FarkleSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FarkleSettingsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\FarkleSettingsControl.Designer.cs">
+      <DependentUpon>FarkleSettingsControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\GameLogUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\GameLogUserControl.Designer.cs">
+      <DependentUpon>GameLogUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\PlayerControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\PlayerControl.Designer.cs">
+      <DependentUpon>PlayerControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\PlayerNameControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\PlayerNameControl.Designer.cs">
+      <DependentUpon>PlayerNameControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ScoringDisplay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\ScoringDisplay.Designer.cs">
+      <DependentUpon>ScoringDisplay.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FarkleGame.resx">
+      <DependentUpon>FarkleGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserControls\AnimationUserControl.resx">
+      <DependentUpon>AnimationUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\DiceContainer.resx">
+      <DependentUpon>DiceContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\DiceTray.resx">
+      <DependentUpon>DiceTray.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\FarkleSetting.resx">
+      <DependentUpon>FarkleSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\FarkleSettingsControl.resx">
+      <DependentUpon>FarkleSettingsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\GameLogUserControl.resx">
+      <DependentUpon>GameLogUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\PlayerControl.resx">
+      <DependentUpon>PlayerControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\PlayerNameControl.resx">
+      <DependentUpon>PlayerNameControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\ScoringDisplay.resx">
+      <DependentUpon>ScoringDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice_four.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice_one.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice_six.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice_three.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice_two.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fice_five.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hot dice.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joker.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\poop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\russian roulette.gif" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

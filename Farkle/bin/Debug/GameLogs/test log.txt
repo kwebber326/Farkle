@@ -1,0 +1,371 @@
+[9/11/2023 8:45:10 PM] Batman sets aside the SingleOne
+[9/11/2023 8:45:10 PM] Total Value Added: 100
+
+[9/11/2023 8:45:10 PM] Batman Elects to roll with 5 dice remaining...
+[9/11/2023 8:45:12 PM] Batman sets aside the SingleFive
+[9/11/2023 8:45:12 PM] Total Value Added: 50
+
+[9/11/2023 8:45:12 PM] Batman Elects to roll with 4 dice remaining...
+[9/11/2023 8:45:13 PM] Batman sets aside the SingleFive
+[9/11/2023 8:45:13 PM] Total Value Added: 50
+
+[9/11/2023 8:45:13 PM] Batman Elects to roll with 3 dice remaining...
+[9/11/2023 8:45:15 PM] Batman Farkled with 3 dice remaining and lost 200 points!
+[9/11/2023 8:45:16 PM] Robin sets aside the Ones
+[9/11/2023 8:45:16 PM] Total Value Added: 300
+
+[9/11/2023 8:45:16 PM] Robin Elects to roll with 3 dice remaining...
+[9/11/2023 8:45:17 PM] Robin sets aside the SingleOne
+[9/11/2023 8:45:17 PM] Total Value Added: 100
+
+[9/11/2023 8:45:18 PM] Robin Elects to roll with 2 dice remaining...
+[9/11/2023 8:45:19 PM] Robin Farkled with 2 dice remaining and lost 400 points!
+[9/11/2023 8:45:20 PM] Batman sets aside the SingleOne
+[9/11/2023 8:45:20 PM] Total Value Added: 100
+
+[9/11/2023 8:45:20 PM] Batman Elects to roll with 5 dice remaining...
+[9/11/2023 8:45:22 PM] Batman sets aside the SingleOne
+[9/11/2023 8:45:22 PM] Total Value Added: 100
+
+[9/11/2023 8:45:22 PM] Batman Elects to roll with 4 dice remaining...
+[9/11/2023 8:45:23 PM] Batman sets aside the SingleFive
+[9/11/2023 8:45:23 PM] Total Value Added: 50
+
+[9/11/2023 8:45:23 PM] Batman Elects to roll with 3 dice remaining...
+[9/11/2023 8:45:25 PM] Batman sets aside the SingleFive
+[9/11/2023 8:45:25 PM] Total Value Added: 50
+
+[9/11/2023 8:45:25 PM] Batman Elects to roll with 2 dice remaining...
+[9/11/2023 8:45:26 PM] Batman Farkled with 2 dice remaining and lost 300 points!
+[9/11/2023 8:45:28 PM] Robin sets aside the SingleFive
+[9/11/2023 8:45:28 PM] Robin sets aside the FourOfAKind
+[9/11/2023 8:45:28 PM] Robin sets aside the SingleOne
+[9/11/2023 8:45:28 PM] Total Value Added: 1150
+
+[9/11/2023 8:45:28 PM] Robin got hot dice!!!
+[9/11/2023 8:45:28 PM] Robin Elects to roll with 6 dice remaining...
+[9/11/2023 8:45:29 PM] Robin sets aside the SingleOne
+[9/11/2023 8:45:29 PM] Robin sets aside the SingleOne
+[9/11/2023 8:45:29 PM] Total Value Added: 200
+
+[9/11/2023 8:45:29 PM] Robin has elected to bank 1350 points
+[9/11/2023 8:45:31 PM] Batman sets aside the SingleOne
+[9/11/2023 8:45:31 PM] Batman sets aside the SingleOne
+[9/11/2023 8:45:31 PM] Total Value Added: 200
+
+[9/11/2023 8:45:31 PM] Batman Elects to roll with 4 dice remaining...
+[9/11/2023 8:45:32 PM] Batman Farkled with 4 dice remaining and lost 200 points!
+[9/11/2023 8:45:34 PM] Robin sets aside the SingleOne
+[9/11/2023 8:45:34 PM] Robin sets aside the SingleOne
+[9/11/2023 8:45:34 PM] Total Value Added: 200
+
+[9/11/2023 8:45:34 PM] Robin Elects to roll with 4 dice remaining...
+[9/11/2023 8:45:35 PM] Robin sets aside the SingleOne
+[9/11/2023 8:45:35 PM] Total Value Added: 100
+
+[9/11/2023 8:45:35 PM] Robin has elected to bank 300 points
+[9/11/2023 8:45:37 PM] Batman sets aside the Sixes
+[9/11/2023 8:45:37 PM] Total Value Added: 600
+
+[9/11/2023 8:45:37 PM] Batman has elected to bank 600 points
+[9/11/2023 8:45:38 PM] Robin sets aside the SingleOne
+[9/11/2023 8:45:38 PM] Robin sets aside the Sixes
+[9/11/2023 8:45:38 PM] Total Value Added: 700
+
+[9/11/2023 8:45:39 PM] Robin has elected to bank 700 points
+[9/11/2023 8:45:40 PM] Batman sets aside the SingleOne
+[9/11/2023 8:45:40 PM] Total Value Added: 100
+
+[9/11/2023 8:45:40 PM] Batman Elects to roll with 5 dice remaining...
+[9/11/2023 8:45:41 PM] Batman sets aside the Fives
+[9/11/2023 8:45:41 PM] Total Value Added: 500
+
+[9/11/2023 8:45:41 PM] Batman has elected to bank 600 points
+[9/11/2023 8:45:43 PM] Robin sets aside the FourOfAKind
+[9/11/2023 8:45:43 PM] Total Value Added: 1000
+
+[9/11/2023 8:45:43 PM] Robin has elected to bank 1000 points
+[9/11/2023 8:45:44 PM] Batman sets aside the SingleOne
+[9/11/2023 8:45:44 PM] Batman sets aside the SingleOne
+[9/11/2023 8:45:44 PM] Total Value Added: 200
+
+[9/11/2023 8:45:44 PM] Batman Elects to roll with 4 dice remaining...
+[9/11/2023 8:45:46 PM] Batman sets aside the SingleOne
+[9/11/2023 8:45:46 PM] Total Value Added: 100
+
+[9/11/2023 8:45:46 PM] Batman has elected to bank 300 points
+[9/11/2023 8:45:47 PM] Robin sets aside the Threes
+[9/11/2023 8:45:47 PM] Robin sets aside the SingleOne
+[9/11/2023 8:45:47 PM] Robin sets aside the SingleOne
+[9/11/2023 8:45:47 PM] Total Value Added: 500
+
+[9/11/2023 8:45:47 PM] Robin has elected to bank 500 points
+[9/11/2023 8:45:49 PM] Batman sets aside the Fives
+[9/11/2023 8:45:49 PM] Total Value Added: 500
+
+[9/11/2023 8:45:49 PM] Batman has elected to bank 500 points
+[9/11/2023 8:45:50 PM] Robin sets aside the SingleFive
+[9/11/2023 8:45:50 PM] Total Value Added: 50
+
+[9/11/2023 8:45:51 PM] Robin Elects to roll with 5 dice remaining...
+[9/11/2023 8:45:52 PM] Robin sets aside the SingleOne
+[9/11/2023 8:45:52 PM] Total Value Added: 100
+
+[9/11/2023 8:45:52 PM] Robin Elects to roll with 4 dice remaining...
+[9/11/2023 8:45:53 PM] Robin sets aside the SingleOne
+[9/11/2023 8:45:53 PM] Total Value Added: 100
+
+[9/11/2023 8:45:54 PM] Robin has elected to bank 250 points
+[9/11/2023 8:45:55 PM] Batman sets aside the Fives
+[9/11/2023 8:45:55 PM] Total Value Added: 500
+
+[9/11/2023 8:45:55 PM] Batman has elected to bank 500 points
+[9/11/2023 8:45:57 PM] Robin sets aside the SingleFive
+[9/11/2023 8:45:57 PM] Total Value Added: 50
+
+[9/11/2023 8:45:57 PM] Robin Elects to roll with 5 dice remaining...
+[9/11/2023 8:45:58 PM] Robin sets aside the SingleOne
+[9/11/2023 8:45:58 PM] Robin sets aside the SingleOne
+[9/11/2023 8:45:58 PM] Total Value Added: 200
+
+[9/11/2023 8:45:58 PM] Robin has elected to bank 250 points
+[9/11/2023 8:46:00 PM] Batman Farkled with 6 dice remaining and lost 0 points!
+[9/11/2023 8:46:01 PM] Robin sets aside the Threes
+[9/11/2023 8:46:01 PM] Total Value Added: 300
+
+[9/11/2023 8:46:01 PM] Robin has elected to bank 300 points
+[9/11/2023 8:46:03 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:03 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:03 PM] Total Value Added: 200
+
+[9/11/2023 8:46:03 PM] Batman Elects to roll with 4 dice remaining...
+[9/11/2023 8:46:04 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:04 PM] Total Value Added: 100
+
+[9/11/2023 8:46:04 PM] Batman has elected to bank 300 points
+[9/11/2023 8:46:06 PM] Robin sets aside the Twos
+[9/11/2023 8:46:06 PM] Total Value Added: 200
+
+[9/11/2023 8:46:06 PM] Robin has elected to bank 200 points
+[9/11/2023 8:46:07 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:07 PM] Total Value Added: 100
+
+[9/11/2023 8:46:07 PM] Batman Elects to roll with 5 dice remaining...
+[9/11/2023 8:46:09 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:09 PM] Total Value Added: 100
+
+[9/11/2023 8:46:09 PM] Batman Elects to roll with 4 dice remaining...
+[9/11/2023 8:46:10 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:10 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:10 PM] Total Value Added: 200
+
+[9/11/2023 8:46:10 PM] Batman has elected to bank 400 points
+[9/11/2023 8:46:12 PM] Robin sets aside the SingleOne
+[9/11/2023 8:46:12 PM] Total Value Added: 100
+
+[9/11/2023 8:46:12 PM] Robin Elects to roll with 5 dice remaining...
+[9/11/2023 8:46:13 PM] Robin sets aside the FourOfAKind
+[9/11/2023 8:46:14 PM] Robin sets aside the SingleOne
+[9/11/2023 8:46:14 PM] Total Value Added: 1100
+
+[9/11/2023 8:46:14 PM] Robin got hot dice!!!
+[9/11/2023 8:46:14 PM] Robin Elects to roll with 6 dice remaining...
+[9/11/2023 8:46:15 PM] Robin sets aside the SingleOne
+[9/11/2023 8:46:15 PM] Robin sets aside the Threes
+[9/11/2023 8:46:15 PM] Robin sets aside the SingleFive
+[9/11/2023 8:46:15 PM] Robin sets aside the SingleOne
+[9/11/2023 8:46:15 PM] Total Value Added: 550
+
+[9/11/2023 8:46:15 PM] Robin got hot dice!!!
+[9/11/2023 8:46:15 PM] Robin Elects to roll with 6 dice remaining...
+[9/11/2023 8:46:17 PM] Robin sets aside the Fives
+[9/11/2023 8:46:17 PM] Total Value Added: 500
+
+[9/11/2023 8:46:17 PM] Robin has elected to bank 2250 points
+[9/11/2023 8:46:18 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:18 PM] Batman sets aside the FourOfAKind
+[9/11/2023 8:46:18 PM] Total Value Added: 1100
+
+[9/11/2023 8:46:18 PM] Batman has elected to bank 1100 points
+[9/11/2023 8:46:20 PM] Robin sets aside the Fours
+[9/11/2023 8:46:20 PM] Total Value Added: 400
+
+[9/11/2023 8:46:20 PM] Robin has elected to bank 400 points
+[9/11/2023 8:46:22 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:22 PM] Total Value Added: 100
+
+[9/11/2023 8:46:22 PM] Batman Elects to roll with 5 dice remaining...
+[9/11/2023 8:46:23 PM] Batman sets aside the SingleFive
+[9/11/2023 8:46:23 PM] Total Value Added: 50
+
+[9/11/2023 8:46:23 PM] Batman Elects to roll with 4 dice remaining...
+[9/11/2023 8:46:24 PM] Batman sets aside the SingleFive
+[9/11/2023 8:46:25 PM] Total Value Added: 50
+
+[9/11/2023 8:46:25 PM] Batman has elected to bank 200 points
+[9/11/2023 8:46:26 PM] Robin sets aside the SingleFive
+[9/11/2023 8:46:26 PM] Total Value Added: 50
+
+[9/11/2023 8:46:26 PM] Robin Elects to roll with 5 dice remaining...
+[9/11/2023 8:46:28 PM] Robin sets aside the Twos
+[9/11/2023 8:46:28 PM] Total Value Added: 200
+
+[9/11/2023 8:46:28 PM] Robin has elected to bank 250 points
+[9/11/2023 8:46:29 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:29 PM] Total Value Added: 100
+
+[9/11/2023 8:46:29 PM] Batman Elects to roll with 5 dice remaining...
+[9/11/2023 8:46:31 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:31 PM] Total Value Added: 100
+
+[9/11/2023 8:46:31 PM] Batman Elects to roll with 4 dice remaining...
+[9/11/2023 8:46:32 PM] Batman sets aside the SingleFive
+[9/11/2023 8:46:32 PM] Total Value Added: 50
+
+[9/11/2023 8:46:32 PM] Batman has elected to bank 250 points
+[9/11/2023 8:46:34 PM] Robin sets aside the SingleFive
+[9/11/2023 8:46:34 PM] Total Value Added: 50
+
+[9/11/2023 8:46:34 PM] Robin Elects to roll with 5 dice remaining...
+[9/11/2023 8:46:35 PM] Robin sets aside the SingleOne
+[9/11/2023 8:46:35 PM] Total Value Added: 100
+
+[9/11/2023 8:46:35 PM] Robin Elects to roll with 4 dice remaining...
+[9/11/2023 8:46:37 PM] Robin sets aside the SingleFive
+[9/11/2023 8:46:37 PM] Total Value Added: 50
+
+[9/11/2023 8:46:37 PM] Robin has elected to bank 200 points
+[9/11/2023 8:46:38 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:38 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:38 PM] Total Value Added: 200
+
+[9/11/2023 8:46:38 PM] Batman Elects to roll with 4 dice remaining...
+[9/11/2023 8:46:40 PM] Batman sets aside the SingleFive
+[9/11/2023 8:46:40 PM] Total Value Added: 50
+
+[9/11/2023 8:46:40 PM] Batman has elected to bank 250 points
+[9/11/2023 8:46:41 PM] Robin sets aside the SingleOne
+[9/11/2023 8:46:41 PM] Total Value Added: 100
+
+[9/11/2023 8:46:42 PM] Robin Elects to roll with 5 dice remaining...
+[9/11/2023 8:46:43 PM] Robin sets aside the SingleOne
+[9/11/2023 8:46:43 PM] Total Value Added: 100
+
+[9/11/2023 8:46:43 PM] Robin Elects to roll with 4 dice remaining...
+[9/11/2023 8:46:44 PM] Robin sets aside the SingleOne
+[9/11/2023 8:46:44 PM] Total Value Added: 100
+
+[9/11/2023 8:46:44 PM] Robin has elected to bank 300 points
+[9/11/2023 8:46:46 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:46 PM] Total Value Added: 100
+
+[9/11/2023 8:46:46 PM] Batman Elects to roll with 5 dice remaining...
+[9/11/2023 8:46:47 PM] Batman sets aside the Ones
+[9/11/2023 8:46:47 PM] Total Value Added: 300
+
+[9/11/2023 8:46:47 PM] Batman has elected to bank 400 points
+[9/11/2023 8:46:49 PM] Robin sets aside the Fives
+[9/11/2023 8:46:49 PM] Total Value Added: 500
+
+[9/11/2023 8:46:49 PM] Robin has elected to bank 500 points
+[9/11/2023 8:46:50 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:50 PM] Total Value Added: 100
+
+[9/11/2023 8:46:50 PM] Batman Elects to roll with 5 dice remaining...
+[9/11/2023 8:46:52 PM] Batman sets aside the SingleFive
+[9/11/2023 8:46:52 PM] Total Value Added: 50
+
+[9/11/2023 8:46:52 PM] Batman Elects to roll with 4 dice remaining...
+[9/11/2023 8:46:53 PM] Batman Farkled with 4 dice remaining and lost 150 points!
+[9/11/2023 8:46:55 PM] Robin sets aside the SingleOne
+[9/11/2023 8:46:55 PM] Robin sets aside the SingleOne
+[9/11/2023 8:46:55 PM] Total Value Added: 200
+
+[9/11/2023 8:46:55 PM] Robin Elects to roll with 4 dice remaining...
+[9/11/2023 8:46:56 PM] Robin Farkled with 4 dice remaining and lost 200 points!
+[9/11/2023 8:46:58 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:58 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:58 PM] Total Value Added: 200
+
+[9/11/2023 8:46:58 PM] Batman Elects to roll with 4 dice remaining...
+[9/11/2023 8:46:59 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:59 PM] Batman sets aside the SingleOne
+[9/11/2023 8:46:59 PM] Total Value Added: 200
+
+[9/11/2023 8:47:00 PM] Batman has elected to bank 400 points
+[9/11/2023 8:47:01 PM] Robin sets aside the SingleFive
+[9/11/2023 8:47:01 PM] Total Value Added: 50
+
+[9/11/2023 8:47:01 PM] Robin Elects to roll with 5 dice remaining...
+[9/11/2023 8:47:03 PM] Robin sets aside the SingleOne
+[9/11/2023 8:47:03 PM] Total Value Added: 100
+
+[9/11/2023 8:47:03 PM] Robin Elects to roll with 4 dice remaining...
+[9/11/2023 8:47:04 PM] Robin Farkled with 4 dice remaining and lost 150 points!
+[9/11/2023 8:47:05 PM] Batman sets aside the SingleFive
+[9/11/2023 8:47:05 PM] Total Value Added: 50
+
+[9/11/2023 8:47:06 PM] Batman Elects to roll with 5 dice remaining...
+[9/11/2023 8:47:07 PM] Batman sets aside the SingleOne
+[9/11/2023 8:47:07 PM] Total Value Added: 100
+
+[9/11/2023 8:47:07 PM] Batman Elects to roll with 4 dice remaining...
+[9/11/2023 8:47:08 PM] Batman sets aside the SingleOne
+[9/11/2023 8:47:08 PM] Total Value Added: 100
+
+[9/11/2023 8:47:08 PM] Batman has elected to bank 250 points
+[9/11/2023 8:47:10 PM] Robin sets aside the SingleOne
+[9/11/2023 8:47:10 PM] Total Value Added: 100
+
+[9/11/2023 8:47:10 PM] Robin Elects to roll with 5 dice remaining...
+[9/11/2023 8:47:11 PM] Robin sets aside the SingleOne
+[9/11/2023 8:47:11 PM] Robin sets aside the SingleOne
+[9/11/2023 8:47:11 PM] Total Value Added: 200
+
+[9/11/2023 8:47:12 PM] Robin has elected to bank 300 points
+[9/11/2023 8:47:13 PM] Batman sets aside the SingleOne
+[9/11/2023 8:47:13 PM] Total Value Added: 100
+
+[9/11/2023 8:47:13 PM] Batman Elects to roll with 5 dice remaining...
+[9/11/2023 8:47:14 PM] Batman Farkled with 5 dice remaining and lost 100 points!
+[9/11/2023 8:47:16 PM] Robin sets aside the SingleFive
+[9/11/2023 8:47:16 PM] Total Value Added: 50
+
+[9/11/2023 8:47:16 PM] Robin Elects to roll with 5 dice remaining...
+[9/11/2023 8:47:17 PM] Robin sets aside the Fours
+[9/11/2023 8:47:17 PM] Total Value Added: 400
+
+[9/11/2023 8:47:18 PM] Robin has elected to bank 450 points
+[9/11/2023 8:47:19 PM] Batman sets aside the Fours
+[9/11/2023 8:47:19 PM] Total Value Added: 400
+
+[9/11/2023 8:47:19 PM] Batman Elects to roll with 3 dice remaining...
+[9/11/2023 8:47:20 PM] Batman sets aside the SingleFive
+[9/11/2023 8:47:20 PM] Total Value Added: 50
+
+[9/11/2023 8:47:21 PM] Batman Elects to roll with 2 dice remaining...
+[9/11/2023 8:47:22 PM] Batman sets aside the SingleFive
+[9/11/2023 8:47:22 PM] Total Value Added: 50
+
+[9/11/2023 8:47:22 PM] Batman Elects to roll with 1 dice remaining...
+[9/11/2023 8:47:23 PM] Batman Farkled with 1 dice remaining and lost 500 points!
+[9/11/2023 8:47:25 PM] Robin sets aside the SingleOne
+[9/11/2023 8:47:25 PM] Total Value Added: 100
+
+[9/11/2023 8:47:25 PM] Robin Elects to roll with 5 dice remaining...
+[9/11/2023 8:47:26 PM] Robin sets aside the SingleOne
+[9/11/2023 8:47:26 PM] Robin sets aside the SingleOne
+[9/11/2023 8:47:26 PM] Total Value Added: 200
+
+[9/11/2023 8:47:26 PM] Robin has elected to bank 300 points
+[9/11/2023 8:47:28 PM] Batman sets aside the SingleOne
+[9/11/2023 8:47:28 PM] Batman sets aside the SingleOne
+[9/11/2023 8:47:28 PM] Total Value Added: 200
+
+[9/11/2023 8:47:28 PM] Batman Elects to roll with 4 dice remaining...
+[9/11/2023 8:47:29 PM] Batman Farkled with 4 dice remaining and lost 200 points!
+[9/11/2023 8:47:31 PM] Robin sets aside the Ones
+[9/11/2023 8:47:31 PM] Total Value Added: 300
+
+[9/11/2023 8:47:31 PM] Robin has elected to bank 300 points
+[1/1/0001 12:00:00 AM] Robin has won the game!!!

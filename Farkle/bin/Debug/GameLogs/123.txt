@@ -1,0 +1,417 @@
+[9/20/2023 8:00:41 PM] Kenny begins their turn...
+[9/20/2023 8:00:44 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:00:44 PM] Total Value Added: 100
+
+[9/20/2023 8:00:45 PM] Kenny Elects to roll with 5 dice remaining...
+[9/20/2023 8:00:48 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:00:48 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:00:48 PM] Total Value Added: 200
+
+[9/20/2023 8:00:49 PM] Kenny Elects to roll with 3 dice remaining...
+[9/20/2023 8:00:50 PM] Kenny Farkled with 3 dice remaining and lost 300 points!
+[9/20/2023 8:00:50 PM] Computer begins their turn...
+[9/20/2023 8:00:52 PM] Computer sets aside the Sixes
+[9/20/2023 8:00:52 PM] Computer sets aside the SingleOne
+[9/20/2023 8:00:52 PM] Total Value Added: 700
+
+[9/20/2023 8:00:52 PM] Computer has elected to bank 700 points
+[9/20/2023 8:00:53 PM] Kenny begins their turn...
+[9/20/2023 8:00:58 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:00:58 PM] Total Value Added: 100
+
+[9/20/2023 8:00:59 PM] Kenny Elects to roll with 5 dice remaining...
+[9/20/2023 8:01:03 PM] Kenny sets aside the Fives
+[9/20/2023 8:01:03 PM] Total Value Added: 500
+
+[9/20/2023 8:01:03 PM] Kenny has elected to bank 600 points
+[9/20/2023 8:01:03 PM] Computer begins their turn...
+[9/20/2023 8:01:04 PM] Computer sets aside the SingleOne
+[9/20/2023 8:01:04 PM] Computer sets aside the SingleOne
+[9/20/2023 8:01:05 PM] Total Value Added: 200
+
+[9/20/2023 8:01:05 PM] Computer begins their turn...
+[9/20/2023 8:01:06 PM] Computer Farkled with 4 dice remaining and lost 200 points!
+[9/20/2023 8:01:07 PM] Kenny begins their turn...
+[9/20/2023 8:01:11 PM] Kenny sets aside the Sixes
+[9/20/2023 8:01:11 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:01:11 PM] Total Value Added: 650
+
+[9/20/2023 8:01:11 PM] Kenny has elected to bank 650 points
+[9/20/2023 8:01:11 PM] Computer begins their turn...
+[9/20/2023 8:01:13 PM] Computer sets aside the FourOfAKind
+[9/20/2023 8:01:13 PM] Total Value Added: 1000
+
+[9/20/2023 8:01:13 PM] Computer has elected to bank 1000 points
+[9/20/2023 8:01:14 PM] Kenny begins their turn...
+[9/20/2023 8:01:18 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:01:18 PM] Total Value Added: 100
+
+[9/20/2023 8:01:19 PM] Kenny Elects to roll with 5 dice remaining...
+[9/20/2023 8:01:22 PM] Kenny sets aside the Ones
+[9/20/2023 8:01:22 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:01:22 PM] Total Value Added: 350
+
+[9/20/2023 8:01:23 PM] Kenny has elected to bank 450 points
+[9/20/2023 8:01:23 PM] Computer begins their turn...
+[9/20/2023 8:01:24 PM] Computer sets aside the Sixes
+[9/20/2023 8:01:24 PM] Total Value Added: 600
+
+[9/20/2023 8:01:24 PM] Computer has elected to bank 600 points
+[9/20/2023 8:01:27 PM] Kenny begins their turn...
+[9/20/2023 8:01:30 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:01:30 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:01:30 PM] Total Value Added: 200
+
+[9/20/2023 8:01:31 PM] Kenny Elects to roll with 4 dice remaining...
+[9/20/2023 8:01:33 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:01:34 PM] Total Value Added: 100
+
+[9/20/2023 8:01:35 PM] Kenny Elects to roll with 3 dice remaining...
+[9/20/2023 8:01:38 PM] Kenny sets aside the Ones
+[9/20/2023 8:01:38 PM] Total Value Added: 300
+
+[9/20/2023 8:01:38 PM] Kenny got hot dice!!!
+[9/20/2023 8:01:39 PM] Kenny Elects to roll with 6 dice remaining...
+[9/20/2023 8:01:44 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:01:44 PM] Total Value Added: 50
+
+[9/20/2023 8:01:45 PM] Kenny Elects to roll with 5 dice remaining...
+[9/20/2023 8:01:48 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:01:48 PM] Total Value Added: 50
+
+[9/20/2023 8:01:49 PM] Kenny Elects to roll with 4 dice remaining...
+[9/20/2023 8:01:51 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:01:51 PM] Total Value Added: 100
+
+[9/20/2023 8:01:52 PM] Kenny has elected to bank 800 points
+[9/20/2023 8:01:52 PM] Computer begins their turn...
+[9/20/2023 8:01:53 PM] Computer sets aside the Fives
+[9/20/2023 8:01:53 PM] Total Value Added: 500
+
+[9/20/2023 8:01:53 PM] Computer has elected to bank 500 points
+[9/20/2023 8:01:55 PM] Kenny begins their turn...
+[9/20/2023 8:02:00 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:02:00 PM] Kenny sets aside the Fours
+[9/20/2023 8:02:00 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:02:00 PM] Total Value Added: 550
+
+[9/20/2023 8:02:01 PM] Kenny has elected to bank 550 points
+[9/20/2023 8:02:01 PM] Computer begins their turn...
+[9/20/2023 8:02:02 PM] Computer sets aside the SingleFive
+[9/20/2023 8:02:02 PM] Total Value Added: 50
+
+[9/20/2023 8:02:02 PM] Computer begins their turn...
+[9/20/2023 8:02:04 PM] Computer sets aside the SingleOne
+[9/20/2023 8:02:04 PM] Computer sets aside the SingleOne
+[9/20/2023 8:02:04 PM] Total Value Added: 200
+
+[9/20/2023 8:02:04 PM] Computer has elected to bank 250 points
+[9/20/2023 8:02:05 PM] Kenny begins their turn...
+[9/20/2023 8:02:15 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:02:15 PM] Total Value Added: 100
+
+[9/20/2023 8:02:17 PM] Kenny sets aside the Threes
+[9/20/2023 8:02:17 PM] Total Value Added: 300
+
+[9/20/2023 8:02:18 PM] Kenny has elected to bank 400 points
+[9/20/2023 8:02:18 PM] Computer begins their turn...
+[9/20/2023 8:02:20 PM] Computer sets aside the SingleOne
+[9/20/2023 8:02:20 PM] Total Value Added: 100
+
+[9/20/2023 8:02:20 PM] Computer begins their turn...
+[9/20/2023 8:02:21 PM] Computer sets aside the SingleFive
+[9/20/2023 8:02:21 PM] Total Value Added: 50
+
+[9/20/2023 8:02:21 PM] Computer Elects to roll with 4 dice remaining...
+[9/20/2023 8:02:23 PM] Computer Farkled with 4 dice remaining and lost 150 points!
+[9/20/2023 8:02:23 PM] Kenny begins their turn...
+[9/20/2023 8:02:27 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:02:27 PM] Total Value Added: 50
+
+[9/20/2023 8:02:28 PM] Kenny Elects to roll with 5 dice remaining...
+[9/20/2023 8:02:31 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:02:31 PM] Total Value Added: 50
+
+[9/20/2023 8:02:31 PM] Kenny Elects to roll with 4 dice remaining...
+[9/20/2023 8:02:35 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:02:35 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:02:35 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:02:35 PM] Total Value Added: 250
+
+[9/20/2023 8:02:35 PM] Kenny has elected to bank 350 points
+[9/20/2023 8:02:35 PM] Computer begins their turn...
+[9/20/2023 8:02:37 PM] Computer sets aside the SingleFive
+[9/20/2023 8:02:37 PM] Total Value Added: 50
+
+[9/20/2023 8:02:37 PM] Computer begins their turn...
+[9/20/2023 8:02:38 PM] Computer sets aside the SingleFive
+[9/20/2023 8:02:38 PM] Total Value Added: 50
+
+[9/20/2023 8:02:38 PM] Computer Elects to roll with 4 dice remaining...
+[9/20/2023 8:02:39 PM] Computer sets aside the SingleFive
+[9/20/2023 8:02:40 PM] Total Value Added: 50
+
+[9/20/2023 8:02:40 PM] Computer Elects to roll with 3 dice remaining...
+[9/20/2023 8:02:41 PM] Computer Farkled with 3 dice remaining and lost 150 points!
+[9/20/2023 8:02:42 PM] Kenny begins their turn...
+[9/20/2023 8:02:45 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:02:45 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:02:45 PM] Total Value Added: 200
+
+[9/20/2023 8:02:45 PM] Kenny Elects to roll with 4 dice remaining...
+[9/20/2023 8:02:48 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:02:48 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:02:48 PM] Total Value Added: 200
+
+[9/20/2023 8:02:49 PM] Kenny has elected to bank 400 points
+[9/20/2023 8:02:49 PM] Computer begins their turn...
+[9/20/2023 8:02:50 PM] Computer sets aside the Twos
+[9/20/2023 8:02:51 PM] Computer sets aside the SingleOne
+[9/20/2023 8:02:51 PM] Total Value Added: 300
+
+[9/20/2023 8:02:51 PM] Computer has elected to bank 300 points
+[9/20/2023 8:02:51 PM] Kenny begins their turn...
+[9/20/2023 8:02:55 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:02:55 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:02:55 PM] Total Value Added: 200
+
+[9/20/2023 8:02:55 PM] Kenny Elects to roll with 4 dice remaining...
+[9/20/2023 8:02:58 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:02:58 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:02:59 PM] Total Value Added: 100
+
+[9/20/2023 8:02:59 PM] Kenny has elected to bank 300 points
+[9/20/2023 8:02:59 PM] Computer begins their turn...
+[9/20/2023 8:03:01 PM] Computer sets aside the SingleFive
+[9/20/2023 8:03:01 PM] Total Value Added: 50
+
+[9/20/2023 8:03:01 PM] Computer begins their turn...
+[9/20/2023 8:03:02 PM] Computer sets aside the SingleOne
+[9/20/2023 8:03:02 PM] Computer sets aside the SingleOne
+[9/20/2023 8:03:02 PM] Total Value Added: 200
+
+[9/20/2023 8:03:02 PM] Computer has elected to bank 250 points
+[9/20/2023 8:03:03 PM] Kenny begins their turn...
+[9/20/2023 8:03:06 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:03:06 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:03:06 PM] Total Value Added: 200
+
+[9/20/2023 8:03:07 PM] Kenny Elects to roll with 4 dice remaining...
+[9/20/2023 8:03:11 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:03:11 PM] Kenny sets aside the Twos
+[9/20/2023 8:03:11 PM] Total Value Added: 250
+
+[9/20/2023 8:03:11 PM] Kenny got hot dice!!!
+[9/20/2023 8:03:11 PM] Kenny Elects to roll with 6 dice remaining...
+[9/20/2023 8:03:18 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:03:18 PM] Total Value Added: 100
+
+[9/20/2023 8:03:19 PM] Kenny Elects to roll with 5 dice remaining...
+[9/20/2023 8:03:23 PM] Kenny sets aside the Fours
+[9/20/2023 8:03:23 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:03:23 PM] Total Value Added: 450
+
+[9/20/2023 8:03:24 PM] Kenny has elected to bank 1000 points
+[9/20/2023 8:03:24 PM] Computer begins their turn...
+[9/20/2023 8:03:25 PM] Computer sets aside the SingleOne
+[9/20/2023 8:03:25 PM] Total Value Added: 100
+
+[9/20/2023 8:03:25 PM] Computer begins their turn...
+[9/20/2023 8:03:27 PM] Computer sets aside the SingleFive
+[9/20/2023 8:03:27 PM] Total Value Added: 50
+
+[9/20/2023 8:03:27 PM] Computer Elects to roll with 4 dice remaining...
+[9/20/2023 8:03:28 PM] Computer Farkled with 4 dice remaining and lost 150 points!
+[9/20/2023 8:03:29 PM] Kenny begins their turn...
+[9/20/2023 8:03:33 PM] Kenny sets aside the Fives
+[9/20/2023 8:03:33 PM] Total Value Added: 500
+
+[9/20/2023 8:03:33 PM] Kenny has elected to bank 500 points
+[9/20/2023 8:03:33 PM] Computer begins their turn...
+[9/20/2023 8:03:34 PM] Computer sets aside the SingleOne
+[9/20/2023 8:03:34 PM] Computer sets aside the Fives
+[9/20/2023 8:03:35 PM] Total Value Added: 600
+
+[9/20/2023 8:03:35 PM] Computer has elected to bank 600 points
+[9/20/2023 8:03:36 PM] Kenny begins their turn...
+[9/20/2023 8:03:40 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:03:40 PM] Total Value Added: 50
+
+[9/20/2023 8:03:41 PM] Kenny Elects to roll with 5 dice remaining...
+[9/20/2023 8:03:44 PM] Kenny sets aside the Ones
+[9/20/2023 8:03:44 PM] Total Value Added: 300
+
+[9/20/2023 8:03:44 PM] Kenny has elected to bank 350 points
+[9/20/2023 8:03:44 PM] Computer begins their turn...
+[9/20/2023 8:03:46 PM] Computer sets aside the Fives
+[9/20/2023 8:03:46 PM] Total Value Added: 500
+
+[9/20/2023 8:03:46 PM] Computer has elected to bank 500 points
+[9/20/2023 8:03:48 PM] Kenny begins their turn...
+[9/20/2023 8:03:49 PM] Kenny Farkled with 6 dice remaining and lost 0 points!
+[9/20/2023 8:03:49 PM] Computer begins their turn...
+[9/20/2023 8:03:51 PM] Computer sets aside the SingleFive
+[9/20/2023 8:03:51 PM] Total Value Added: 50
+
+[9/20/2023 8:03:51 PM] Computer begins their turn...
+[9/20/2023 8:03:52 PM] Computer sets aside the SingleOne
+[9/20/2023 8:03:52 PM] Total Value Added: 100
+
+[9/20/2023 8:03:52 PM] Computer Elects to roll with 4 dice remaining...
+[9/20/2023 8:03:54 PM] Computer sets aside the SingleFive
+[9/20/2023 8:03:54 PM] Total Value Added: 50
+
+[9/20/2023 8:03:54 PM] Computer has elected to bank 200 points
+[9/20/2023 8:03:54 PM] Kenny begins their turn...
+[9/20/2023 8:03:58 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:03:58 PM] Total Value Added: 100
+
+[9/20/2023 8:03:59 PM] Kenny Elects to roll with 5 dice remaining...
+[9/20/2023 8:04:02 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:04:02 PM] Total Value Added: 50
+
+[9/20/2023 8:04:03 PM] Kenny Elects to roll with 4 dice remaining...
+[9/20/2023 8:04:04 PM] Kenny Farkled with 4 dice remaining and lost 150 points!
+[9/20/2023 8:04:04 PM] Computer begins their turn...
+[9/20/2023 8:04:05 PM] Computer sets aside the SingleOne
+[9/20/2023 8:04:05 PM] Computer sets aside the Sixes
+[9/20/2023 8:04:06 PM] Total Value Added: 700
+
+[9/20/2023 8:04:06 PM] Computer has elected to bank 700 points
+[9/20/2023 8:04:06 PM] Kenny begins their turn...
+[9/20/2023 8:04:08 PM] Kenny Farkled with 6 dice remaining and lost 0 points!
+[9/20/2023 8:04:08 PM] Computer begins their turn...
+[9/20/2023 8:04:09 PM] Computer sets aside the ThreePair
+[9/20/2023 8:04:09 PM] Total Value Added: 1500
+
+[9/20/2023 8:04:09 PM] Computer got hot dice!!!
+[9/20/2023 8:04:10 PM] Computer begins their turn...
+[9/20/2023 8:04:10 PM] Computer begins their turn...
+[9/20/2023 8:04:11 PM] Computer sets aside the SingleOne
+[9/20/2023 8:04:11 PM] Total Value Added: 100
+
+[9/20/2023 8:04:11 PM] Computer has elected to bank 1600 points
+[9/20/2023 8:04:13 PM] Kenny begins their turn...
+[9/20/2023 8:04:17 PM] Kenny sets aside the Threes
+[9/20/2023 8:04:17 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:04:17 PM] Total Value Added: 350
+
+[9/20/2023 8:04:18 PM] Kenny has elected to bank 350 points
+[9/20/2023 8:04:18 PM] Computer begins their turn...
+[9/20/2023 8:04:19 PM] Computer sets aside the SingleOne
+[9/20/2023 8:04:19 PM] Computer sets aside the SingleOne
+[9/20/2023 8:04:19 PM] Total Value Added: 200
+
+[9/20/2023 8:04:19 PM] Computer begins their turn...
+[9/20/2023 8:04:21 PM] Computer Farkled with 4 dice remaining and lost 200 points!
+[9/20/2023 8:04:22 PM] Kenny begins their turn...
+[9/20/2023 8:04:26 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:04:26 PM] Total Value Added: 100
+
+[9/20/2023 8:04:26 PM] Kenny Elects to roll with 5 dice remaining...
+[9/20/2023 8:04:42 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:04:42 PM] Kenny sets aside the Threes
+[9/20/2023 8:04:42 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:04:42 PM] Total Value Added: 450
+
+[9/20/2023 8:04:42 PM] Kenny got hot dice!!!
+[9/20/2023 8:04:43 PM] Kenny Elects to roll with 6 dice remaining...
+[9/20/2023 8:04:47 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:04:47 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:04:47 PM] Total Value Added: 100
+
+[9/20/2023 8:04:47 PM] Kenny has elected to bank 650 points
+[9/20/2023 8:04:47 PM] Computer begins their turn...
+[9/20/2023 8:04:49 PM] Computer sets aside the SingleOne
+[9/20/2023 8:04:49 PM] Computer sets aside the Fives
+[9/20/2023 8:04:49 PM] Total Value Added: 600
+
+[9/20/2023 8:04:49 PM] Computer has elected to bank 600 points
+[9/20/2023 8:04:50 PM] Kenny begins their turn...
+[9/20/2023 8:04:53 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:04:53 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:04:53 PM] Total Value Added: 200
+
+[9/20/2023 8:04:53 PM] Kenny Elects to roll with 4 dice remaining...
+[9/20/2023 8:04:56 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:04:56 PM] Total Value Added: 100
+
+[9/20/2023 8:04:57 PM] Kenny Elects to roll with 3 dice remaining...
+[9/20/2023 8:05:00 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:05:00 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:05:00 PM] Total Value Added: 150
+
+[9/20/2023 8:05:00 PM] Kenny has elected to bank 450 points
+[9/20/2023 8:05:00 PM] Computer begins their turn...
+[9/20/2023 8:05:02 PM] Computer sets aside the FourOfAKind
+[9/20/2023 8:05:02 PM] Total Value Added: 1000
+
+[9/20/2023 8:05:02 PM] Computer has elected to bank 1000 points
+[9/20/2023 8:05:03 PM] Kenny begins their turn...
+[9/20/2023 8:05:06 PM] Kenny sets aside the Fours
+[9/20/2023 8:05:06 PM] Total Value Added: 400
+
+[9/20/2023 8:05:07 PM] Kenny Elects to roll with 3 dice remaining...
+[9/20/2023 8:05:09 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:05:09 PM] Total Value Added: 100
+
+[9/20/2023 8:05:10 PM] Kenny has elected to bank 500 points
+[9/20/2023 8:05:10 PM] Computer begins their turn...
+[9/20/2023 8:05:12 PM] Computer sets aside the SingleOne
+[9/20/2023 8:05:12 PM] Total Value Added: 100
+
+[9/20/2023 8:05:12 PM] Computer begins their turn...
+[9/20/2023 8:05:13 PM] Computer sets aside the Sixes
+[9/20/2023 8:05:13 PM] Computer sets aside the SingleOne
+[9/20/2023 8:05:13 PM] Computer sets aside the SingleOne
+[9/20/2023 8:05:13 PM] Total Value Added: 800
+
+[9/20/2023 8:05:13 PM] Computer got hot dice!!!
+[9/20/2023 8:05:13 PM] Computer Elects to roll with 6 dice remaining...
+[9/20/2023 8:05:14 PM] Computer Elects to roll with 6 dice remaining...
+[9/20/2023 8:05:15 PM] Computer sets aside the Ones
+[9/20/2023 8:05:15 PM] Total Value Added: 300
+
+[9/20/2023 8:05:15 PM] Computer has elected to bank 1200 points
+[1/1/0001 12:00:00 AM] Computer has won the game with 10000 points!!!
+[1/1/0001 12:00:00 AM] Kenny scored 8300 points.
+de the SingleOne
+[9/20/2023 8:00:00 PM] Total Value Added: 200
+
+[9/20/2023 8:00:01 PM] Kenny Elects to roll with 4 dice remaining...
+[9/20/2023 8:00:04 PM] Kenny sets aside the SingleOne
+[9/20/2023 8:00:04 PM] Total Value Added: 100
+
+[9/20/2023 8:00:08 PM] Kenny has elected to bank 300 points
+[9/20/2023 8:00:08 PM] Computer begins their turn...
+[9/20/2023 8:00:09 PM] Computer sets aside the SingleFive
+[9/20/2023 8:00:09 PM] Total Value Added: 50
+
+[9/20/2023 8:00:09 PM] Computer begins their turn...
+[9/20/2023 8:00:11 PM] Computer sets aside the SingleOne
+[9/20/2023 8:00:11 PM] Total Value Added: 100
+
+[9/20/2023 8:00:11 PM] Computer Elects to roll with 4 dice remaining...
+[9/20/2023 8:00:12 PM] Computer sets aside the SingleOne
+[9/20/2023 8:00:12 PM] Total Value Added: 100
+
+[9/20/2023 8:00:12 PM] Computer has elected to bank 250 points
+[9/20/2023 8:00:13 PM] Kenny begins their turn...
+[9/20/2023 8:00:18 PM] Kenny sets aside the SingleFive
+[9/20/2023 8:00:18 PM] Kenny sets aside the Twos
+[9/20/2023 8:00:18 PM] Total Value Added: 250
+
+[9/20/2023 8:00:19 PM] Kenny has elected to bank 250 points
+[9/20/2023 8:00:19 PM] Computer begins their turn...
+[9/20/2023 8:00:20 PM] Computer sets aside the ThreePair
+[9/20/2023 8:00:21 PM] Total Value Added: 1500
+
+[9/20/2023 8:00:21 PM] Computer got hot dice!!!
+[9/20/2023 8:00:21 PM] Computer begins their turn...
+[9/20/2023 8:00:21 PM] Computer begins their turn...
+[9/20/2023 8:00:22 PM] Computer sets aside the FourOfAKind
+[9/20/2023 8:00:22 PM] Total Value Added: 1000
+
+[9/20/2023 8:00:22 PM] Computer has elected to bank 2500 points
+[1/1/0001 12:00:00 AM] Computer has won the game with 12050 points!!!
+[1/1/0001 12:00:00 AM] Kenny scored 9350 points.
