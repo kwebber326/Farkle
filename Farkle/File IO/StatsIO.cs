@@ -45,9 +45,10 @@ namespace Farkle.File_IO
             {
                 if (CreateDirectoryIfNotPresent(PLAYER_STATS_FOLDER, out string path))
                 {
+                    File.WriteAllText(path, string.Empty);
                     using (FileStream fs = File.OpenWrite(path))
                     using (StreamWriter writer = new StreamWriter(fs))
-                    {
+                    { 
                         string json = JsonConvert.SerializeObject(stats);
                         writer.Write(json);
                         return true;

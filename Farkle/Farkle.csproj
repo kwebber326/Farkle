@@ -54,6 +54,7 @@
     <Compile Include="Entities\Animations\JokerAnimation.cs" />
     <Compile Include="Entities\Animations\PoopEmojiAnimation.cs" />
     <Compile Include="Entities\Animations\RussianRouletteAnimation.cs" />
+    <Compile Include="Entities\Attributes\DisplayOrder.cs" />
     <Compile Include="Entities\Attributes\WriteData.cs" />
     <Compile Include="Entities\CommonConstants.cs" />
     <Compile Include="Entities\CommonRandom.cs" />
@@ -98,6 +99,12 @@
     </Compile>
     <Compile Include="MainMenu.Designer.cs">
       <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlayerStatsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlayerStatsForm.Designer.cs">
+      <DependentUpon>PlayerStatsForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -149,6 +156,18 @@
     <Compile Include="UserControls\PlayerNameControl.Designer.cs">
       <DependentUpon>PlayerNameControl.cs</DependentUpon>
     </Compile>
+    <Compile Include="UserControls\PlayerStatRow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\PlayerStatRow.Designer.cs">
+      <DependentUpon>PlayerStatRow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\PlayerStatWindow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\PlayerStatWindow.Designer.cs">
+      <DependentUpon>PlayerStatWindow.cs</DependentUpon>
+    </Compile>
     <Compile Include="UserControls\ScoringDisplay.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -160,6 +179,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MainMenu.resx">
       <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlayerStatsForm.resx">
+      <DependentUpon>PlayerStatsForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -194,6 +216,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UserControls\PlayerNameControl.resx">
       <DependentUpon>PlayerNameControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\PlayerStatRow.resx">
+      <DependentUpon>PlayerStatRow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\PlayerStatWindow.resx">
+      <DependentUpon>PlayerStatWindow.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserControls\ScoringDisplay.resx">
       <DependentUpon>ScoringDisplay.cs</DependentUpon>

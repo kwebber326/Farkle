@@ -49,6 +49,9 @@ namespace Farkle
                 case CommonConstants.EVENT_BANK:
                     ManageTurnEndStatistics(e, stat);
                     break;
+                case CommonConstants.EVENT_HOT_DICE:
+                    stat.HotDiceCount++;
+                    break;
             }
         }
 
@@ -196,6 +199,7 @@ namespace Farkle
         { 
             var stats = StatsIO.LoadPlayerStats();
             _playerStats = stats.ToDictionary((s) => s.PlayerName);
+            Dictionary<string, PlayerStats> filteredList = new Dictionary<string, PlayerStats>();
             foreach (var player in _players)
             {
                 var playerStat = _playerStats.TryGetValue(player.Name, out PlayerStats stat) ? stat : null;
@@ -205,9 +209,10 @@ namespace Farkle
                     {
                         PlayerName = player.Name
                     };
-                    _playerStats.Add(player.Name, playerStat);
                 }
+                filteredList.Add(player.Name, playerStat);
             }
+            _playerStats = filteredList;
         }
 
         private void WritePlayerWinnerMessage(string winningPlayer, int winningScore)

@@ -26,7 +26,6 @@ C:\Users\kjw2\source\repos\FarkleGame\Farkle\bin\Debug\Farkle.exe
 C:\Users\kjw2\source\repos\FarkleGame\Farkle\bin\Debug\Farkle.pdb
 C:\Users\kjw2\source\repos\FarkleGame\Farkle\bin\Debug\Newtonsoft.Json.dll
 C:\Users\kjw2\source\repos\FarkleGame\Farkle\bin\Debug\Newtonsoft.Json.xml
-C:\Users\kjw2\source\repos\FarkleGame\Farkle\obj\Debug\Farkle.csprojAssemblyReference.cache
 C:\Users\kjw2\source\repos\FarkleGame\Farkle\obj\Debug\Farkle.FarkleGame.resources
 C:\Users\kjw2\source\repos\FarkleGame\Farkle\obj\Debug\Farkle.MainMenu.resources
 C:\Users\kjw2\source\repos\FarkleGame\Farkle\obj\Debug\Farkle.Properties.Resources.resources
@@ -44,3 +43,7 @@ C:\Users\kjw2\source\repos\FarkleGame\Farkle\obj\Debug\Farkle.csproj.CoreCompile
 C:\Users\kjw2\source\repos\FarkleGame\Farkle\obj\Debug\Farkle.csproj.CopyComplete
 C:\Users\kjw2\source\repos\FarkleGame\Farkle\obj\Debug\Farkle.exe
 C:\Users\kjw2\source\repos\FarkleGame\Farkle\obj\Debug\Farkle.pdb
+C:\Users\kjw2\source\repos\FarkleGame\Farkle\obj\Debug\Farkle.PlayerStatsForm.resources
+C:\Users\kjw2\source\repos\FarkleGame\Farkle\obj\Debug\Farkle.UserControls.PlayerStatWindow.resources
+C:\Users\kjw2\source\repos\FarkleGame\Farkle\obj\Debug\Farkle.UserControls.PlayerStatRow.resources
+C:\Users\kjw2\source\repos\FarkleGame\Farkle\obj\Debug\Farkle.csprojAssemblyReference.cache
