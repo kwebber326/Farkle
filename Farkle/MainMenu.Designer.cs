@@ -38,6 +38,7 @@
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnPlay = new System.Windows.Forms.Button();
             this.btnNew = new System.Windows.Forms.Button();
+            this.btnViewStats = new System.Windows.Forms.Button();
             this.farkleSettingsControl1 = new Farkle.UserControls.FarkleSettingsControl();
             ((System.ComponentModel.ISupportInitialize)(this.pbLogo)).BeginInit();
             this.SuspendLayout();
@@ -130,6 +131,17 @@
             this.btnNew.UseVisualStyleBackColor = true;
             this.btnNew.Click += new System.EventHandler(this.BtnNew_Click);
             // 
+            // btnViewStats
+            // 
+            this.btnViewStats.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnViewStats.Location = new System.Drawing.Point(1113, 792);
+            this.btnViewStats.Name = "btnViewStats";
+            this.btnViewStats.Size = new System.Drawing.Size(139, 133);
+            this.btnViewStats.TabIndex = 10;
+            this.btnViewStats.Text = " View Player Stats";
+            this.btnViewStats.UseVisualStyleBackColor = true;
+            this.btnViewStats.Click += new System.EventHandler(this.BtnViewStats_Click);
+            // 
             // farkleSettingsControl1
             // 
             farkleRuleSet1.BreakInMin = 500;
@@ -161,6 +173,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1418, 1104);
+            this.Controls.Add(this.btnViewStats);
             this.Controls.Add(this.btnNew);
             this.Controls.Add(this.btnPlay);
             this.Controls.Add(this.btnDelete);
@@ -193,6 +206,7 @@
         private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Button btnPlay;
         private System.Windows.Forms.Button btnNew;
+        private System.Windows.Forms.Button btnViewStats;
     }
 }
 

@@ -91,6 +91,7 @@
             this.Name = "FarkleGame";
             this.Text = "Farkle";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FarkleGame_FormClosing);
             this.Load += new System.EventHandler(this.FarkleGame_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);

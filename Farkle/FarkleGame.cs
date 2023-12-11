@@ -11,12 +11,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using Farkle.File_IO;
+using Farkle.Entities.CustomEventArgs;
 
 namespace Farkle
 {
     public partial class FarkleGame : Form
     {
         private readonly List<Player> _players;
+        private Dictionary<string, PlayerStats> _playerStats;
         private const int MARGIN = 8;
         private int _currentPlayerIndex = 0;
         private bool _equalTurns = true;
@@ -30,9 +33,119 @@ namespace Farkle
             diceTray1.ActionOccured += DiceTray1_ActionOccured;
         }
 
-        private void DiceTray1_ActionOccured(object sender, GameLogEntry e)
+        private void DiceTray1_ActionOccured(object sender, GameActionEventArgs e)
         {
-            gameLogUserControl1.LogEntry(e);
+            gameLogUserControl1.LogEntry(e.LogEntryData);
+
+            if (_playerStats == null)
+            {
+                InitializePlayerStats();
+            }
+
+            if (!_playerStats.TryGetValue(diceTray1.CurrentPlayer.Name, out PlayerStats stat))
+                return;
+
+            switch (e.LogEntryData?.EventType)
+            {
+                case CommonConstants.EVENT_FARKLE:
+                    ManageTurnEndStatistics(e, stat);
+                    ProcessFarkleStatistics(e, stat);
+                    break;
+                case CommonConstants.EVENT_BANK:
+                    ManageTurnEndStatistics(e, stat);
+                    break;
+                case CommonConstants.EVENT_HOT_DICE:
+                    stat.HotDiceCount++;
+                    break;
+                case CommonConstants.EVENT_SET_ASIDE:
+                    CountSpecialHands(e, stat);
+                    break;
+                case CommonConstants.EVENT_ROLL:
+                    if (e.ExpectedValueOfRoll != null)
+                    {
+                        stat.CalculateRunningAverageAgressiveIndex(e.TurnScore, e.ExpectedValueOfRoll.Value);
+                    }
+                    break;
+            }
+        }
+
+        private static void CountSpecialHands(GameActionEventArgs e, PlayerStats stat)
+        {
+            if (!string.IsNullOrWhiteSpace(e.Hand))
+            {
+                switch (e.Hand)
+                {
+                    case CommonConstants.ONES:
+                    case CommonConstants.TWOS:
+                    case CommonConstants.THREES:
+                    case CommonConstants.FOURS:
+                    case CommonConstants.FIVES:
+                    case CommonConstants.SIXES:
+                        stat.ThreeOfAkindCount++;
+                        break;
+                    case CommonConstants.FOUR_OF_A_KIND:
+                        stat.FourOfAKindCount++;
+                        break;
+                    case CommonConstants.FIVE_OF_A_KIND:
+                        stat.FiveOfAKindCount++;
+                        break;
+                    case CommonConstants.SIX_OF_A_KIND:
+                        stat.SixOfAKindCount++;
+                        break;
+                    case CommonConstants.THREE_PAIR:
+                        stat.ThreePairCount++;
+                        break;
+                    case CommonConstants.FULL_HOUSE:
+                        stat.FullHouseCount++;
+                        break;
+                    case CommonConstants.STRAIGHT:
+                        stat.StraightCount++;
+                        break;
+                    case CommonConstants.TRIPLETS:
+                        stat.TripletsCount++;
+                        break;
+                }
+            }
+        }
+
+        private static void ProcessFarkleStatistics(GameActionEventArgs e, PlayerStats stat)
+        {
+            switch (e.DiceRemaining)
+            {
+                case 1:
+                    stat.OneDiceFarkles++;
+                    break;
+                case 2:
+                    stat.TwoDiceFarkles++;
+                    break;
+                case 3:
+                    stat.ThreeDiceFarkles++;
+                    break;
+                case 4:
+                    stat.FourDiceFarkles++;
+                    break;
+                case 5:
+                    stat.FiveDiceFarkles++;
+                    break;
+                case 6:
+                    stat.SixDiceFarkles++;
+                    break;
+            }
+
+            stat.Farkles++;
+            if (e.TurnScore > stat.LargestFarkledScore)
+            {
+                stat.LargestFarkledScore = e.TurnScore;
+            }
+        }
+
+        private static void ManageTurnEndStatistics(GameActionEventArgs e, PlayerStats stat)
+        {
+            stat.TurnsTaken++;
+            if (stat.LargestBankedScore < e.TurnScore)
+            {
+                stat.LargestBankedScore = e.TurnScore;
+            }
         }
 
         public SavedFarkleSetting GameSettings
@@ -72,6 +185,8 @@ namespace Farkle
             diceTray1.TurnOver += DiceTray1_TurnOver;
             saveFileDialogGameLog.InitialDirectory = Environment.CurrentDirectory + @"/" + "GameLogs";
             saveFileDialogGameLog.Title = "Save Game Log:";
+
+            InitializePlayerStats();
         }
 
         private void DiceTray1_TurnOver(object sender, Entities.GameEvents.NextTurnEventArgs e)
@@ -100,17 +215,70 @@ namespace Farkle
             foreach (var player in players)
             {
                 player.Position = playersByScore.IndexOf(player) + 1;
+
             }
 
             if (_equalTurns && _players.Any(p => p.Score >= this.GameSettings.RuleSet.PointsToWin))
             {
+                diceTray1.Stop();
                 //Game Over: show standings
                 this.ShowEndGameDisplay();
+
+                //TODO: compile statistics for Player Names
+                var winningPlayers = playersByScore.Where(p => p.Score == diceTray1.TopScore)
+                    .Select(p1 => p1.Player).ToList();
+                foreach (var wp in winningPlayers)
+                {
+                    if (_playerStats.ContainsKey(wp.Name))
+                    {
+                        var winningStatSheet = _playerStats[wp.Name];
+                        winningStatSheet.Wins++;
+                    }
+                }
+
+                ProcessGameStatistics();
+                StatsIO.SavePlayerStats(_playerStats.Values.ToList());
+
                 //Turn off CPU events
                 _players.Clear();
-                //TODO: compile statistics for Player Names
+
                 this.Close();
             }
+        }
+
+        private void ProcessGameStatistics()
+        {
+            foreach (var player in _players)
+            {
+                string playerName = player.Name;
+                if (_playerStats.ContainsKey(playerName))
+                {
+                    var stat = _playerStats[playerName];
+                    stat.GamesPlayed++;
+                    stat.TotalPointsScored += player.Score;
+                }
+            }
+        }
+
+        private void InitializePlayerStats()
+        {
+            var stats = StatsIO.LoadPlayerStats();
+            _playerStats = stats.ToDictionary((s) => s.PlayerName);
+            Dictionary<string, PlayerStats> filteredList = new Dictionary<string, PlayerStats>();
+            foreach (var player in _players)
+            {
+                var playerStat = _playerStats.TryGetValue(player.Name, out PlayerStats stat) ? stat : null;
+                if (playerStat == null)
+                {
+                    playerStat = new PlayerStats()
+                    {
+                        PlayerName = player.Name
+                    };
+                }
+                if (!filteredList.ContainsKey(player.Name))
+                    filteredList.Add(player.Name, playerStat);
+            }
+            _playerStats = filteredList;
         }
 
         private void WritePlayerWinnerMessage(string winningPlayer, int winningScore)
@@ -191,6 +359,11 @@ namespace Farkle
                     writer.WriteLine(msg);
                 }
             }
+        }
+
+        private void FarkleGame_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            diceTray1.Stop();
         }
     }
 }

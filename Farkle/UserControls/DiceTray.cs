@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Farkle.Entities;
 using Farkle.Entities.GameEvents;
+using Farkle.Entities.CustomEventArgs;
+using Farkle.Entities.Utilities;
 
 namespace Farkle.UserControls
 {
@@ -19,11 +21,12 @@ namespace Farkle.UserControls
         private int _turnScore;
         private bool _canToggle = false;
         private bool _firstRoll = true;
+        private bool _stopped = false;
         private HandValidator _handValidator;
         private FarkleRuleSet _ruleSet;
         private int _rolledDice = 0;
         public event EventHandler<NextTurnEventArgs> TurnOver;
-        public event EventHandler<GameLogEntry> ActionOccured;
+        public event EventHandler<GameActionEventArgs> ActionOccured;
 
         private Player _currentPlayer;
 
@@ -116,6 +119,11 @@ namespace Farkle.UserControls
         }
         #endregion
 
+        public void Stop()
+        {
+            _stopped = true;
+        }
+
         private void BtnSetAside_Click(object sender, EventArgs e)
         {
             var setAsideDice = GetSetAsideDice();
@@ -180,6 +188,11 @@ namespace Farkle.UserControls
 
         private void BtnRoll_Click(object sender, EventArgs e)
         {
+            if (_stopped)
+                return;
+
+           
+
             _canToggle = true;
             btnRoll.Enabled = false;
             btnBank.Enabled = false;
@@ -193,8 +206,9 @@ namespace Farkle.UserControls
             }
             if (dice.Any())
             {
+                var expectedValue = FarkleUtilities.GetGameTheoryExpectedValue(this.TurnScore, dice.Count(), _handValidator.Hands, _handValidator.RuleSet);
                 RollAllLiveDice(dice);
-                WriteRollMessage(dice.Count());
+                WriteRollMessage(dice.Count(), expectedValue);
                 _firstRoll = false;
             }
 
@@ -203,12 +217,12 @@ namespace Farkle.UserControls
 
         #region Message Types
 
-        private void WriteRollMessage(int diceRollingCount)
+        private void WriteRollMessage(int diceRollingCount, double expectedValue)
         {
             string message = _firstRoll ? $"{_currentPlayer.Name} begins their turn..."
                 : $"{_currentPlayer.Name} Elects to roll with {diceRollingCount} dice remaining...";
             string actionType = CommonConstants.EVENT_ROLL;
-            OnActionOccured(message, actionType);
+            OnActionOccured(message, actionType, null, expectedValue);
         }
 
         private void WriteHotDiceMessage()
@@ -245,8 +259,8 @@ namespace Farkle.UserControls
             foreach (var hand in hands)
             {
                 string message = $"{_currentPlayer.Name} sets aside the {hand}";
-                //builder.AppendLine(message);
-                OnActionOccured(message, eventType);
+
+                OnActionOccured(message, eventType, hand);
             }
             builder.AppendLine($"Total Value Added: {score}");
             string logMsg = builder.ToString();
@@ -329,7 +343,8 @@ namespace Farkle.UserControls
             {
                 var liveDice = GetLiveDice();
                 RollAllLiveDice(liveDice);
-                WriteRollMessage(liveDice.Count());
+                var expectedValue = FarkleUtilities.GetGameTheoryExpectedValue(this.TurnScore, liveDice.Count(), _handValidator.Hands, _handValidator.RuleSet);
+                WriteRollMessage(liveDice.Count(), expectedValue);
                 _firstRoll = false;
             }
 
@@ -406,7 +421,7 @@ namespace Farkle.UserControls
             pnlSetAsideDice.Controls.Clear();
         }
 
-        private void OnActionOccured(string message, string eventType)
+        private void OnActionOccured(string message, string eventType, string hand = null, double? expectedValueOfRoll = null)
         {
             GameLogEntry gameLogEntry = new GameLogEntry()
             {
@@ -414,11 +429,24 @@ namespace Farkle.UserControls
                 Message = message,
                 EventType = eventType
             };
-            this.ActionOccured?.Invoke(this, gameLogEntry);
+
+            GameActionEventArgs e = new GameActionEventArgs()
+            {
+                LogEntryData = gameLogEntry,
+                TurnScore = this.TurnScore,
+                DiceRemaining = this.GetLiveDice().Count(),
+                Hand = hand,
+                ExpectedValueOfRoll = expectedValueOfRoll
+            };
+
+            this.ActionOccured?.Invoke(this, e);
         }
 
         private void Dice_DiceRolled(object sender, Entities.GameEvents.DiceRollEventArgs e)
         {
+            if (_stopped)
+                return;
+
             var dice = sender as Dice;
             if (dice != null)
             {

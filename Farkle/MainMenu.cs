@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Farkle.Entities;
 using Farkle.File_IO;
+using Farkle.UserControls;
 
 namespace Farkle
 {
@@ -149,6 +150,12 @@ namespace Farkle
                 UpdateControlUsabilityFromSelectedSetting(txtSettingName.Text);
                 btnDelete.Enabled = false;
             }
+        }
+
+        private void BtnViewStats_Click(object sender, EventArgs e)
+        {
+            PlayerStatsForm playerStatsForm = new PlayerStatsForm();
+            playerStatsForm.ShowDialog();
         }
     }
 }
