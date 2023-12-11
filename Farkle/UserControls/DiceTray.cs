@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Farkle.Entities;
 using Farkle.Entities.GameEvents;
+using Farkle.Entities.CustomEventArgs;
 
 namespace Farkle.UserControls
 {
@@ -23,7 +24,7 @@ namespace Farkle.UserControls
         private FarkleRuleSet _ruleSet;
         private int _rolledDice = 0;
         public event EventHandler<NextTurnEventArgs> TurnOver;
-        public event EventHandler<GameLogEntry> ActionOccured;
+        public event EventHandler<GameActionEventArgs> ActionOccured;
 
         private Player _currentPlayer;
 
@@ -414,7 +415,15 @@ namespace Farkle.UserControls
                 Message = message,
                 EventType = eventType
             };
-            this.ActionOccured?.Invoke(this, gameLogEntry);
+
+            GameActionEventArgs e = new GameActionEventArgs()
+            {
+                LogEntryData = gameLogEntry,
+                TurnScore = this.TurnScore,
+                DiceRemaining = this.GetLiveDice().Count()
+            };
+
+            this.ActionOccured?.Invoke(this, e);
         }
 
         private void Dice_DiceRolled(object sender, Entities.GameEvents.DiceRollEventArgs e)

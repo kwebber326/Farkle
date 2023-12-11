@@ -92,6 +92,7 @@
       <DependentUpon>FarkleGame.cs</DependentUpon>
     </Compile>
     <Compile Include="File IO\SettingsUtility.cs" />
+    <Compile Include="File IO\StatsIO.cs" />
     <Compile Include="MainMenu.cs">
       <SubType>Form</SubType>
     </Compile>

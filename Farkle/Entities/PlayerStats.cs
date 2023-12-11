@@ -54,8 +54,12 @@ namespace Farkle.Entities
         }
         [WriteData(WriteToGameStats = true, WriteToPlayerStats = true)]
         public long TurnsTaken { get; set; }
+
         [WriteData(WriteToGameStats = true, WriteToPlayerStats = true)]
-        public long TotalScore { get; set; }
+        public long Rolls { get; set; }
+
+        [WriteData(WriteToGameStats = true, WriteToPlayerStats = true)]
+        public long TotalPointsScored { get; set; }
         [WriteData(WriteToGameStats = true, WriteToPlayerStats = true)]
         public decimal AverageScorePerTurn
         {
@@ -64,7 +68,7 @@ namespace Farkle.Entities
                 if (TurnsTaken == 0)
                     return 0;
 
-                return Math.Round((decimal)TotalScore / (decimal)TurnsTaken, 2);
+                return Math.Round((decimal)TotalPointsScored / (decimal)TurnsTaken, 2);
             }
         }
         [WriteData(WriteToGameStats = true, WriteToPlayerStats = true)]
@@ -96,11 +100,11 @@ namespace Farkle.Entities
         {
             var tScore = (double)(turnScore == 0 ? 1 : turnScore);
             var agressionIndex = (turnScore - expectedValueOfLastRoll) / tScore;
-            var weightedIndex = (1 / (this.TurnsTaken + 1)) * agressionIndex;
-            var oldWeightedIndex = (this.TurnsTaken) / (this.TurnsTaken + 1) * this.AggresionIndex;
+            var weightedIndex = (1 / (this.Rolls + 1)) * agressionIndex;
+            var oldWeightedIndex = (this.Rolls) / (this.Rolls + 1) * this.AggresionIndex;
 
             this.AggresionIndex = oldWeightedIndex + weightedIndex;
-            this.TurnsTaken++;
+            this.Rolls++;
         }
     }
 }
