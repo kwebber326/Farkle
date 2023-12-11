@@ -37,6 +37,11 @@ namespace Farkle
         {
             gameLogUserControl1.LogEntry(e.LogEntryData);
 
+            if (_playerStats == null)
+            {
+                InitializePlayerStats();
+            }
+
             if (!_playerStats.TryGetValue(diceTray1.CurrentPlayer.Name, out PlayerStats stat))
                 return;
 
@@ -163,13 +168,21 @@ namespace Farkle
 
             if (_equalTurns && _players.Any(p => p.Score >= this.GameSettings.RuleSet.PointsToWin))
             {
+                diceTray1.Stop();
                 //Game Over: show standings
                 this.ShowEndGameDisplay();
 
                 //TODO: compile statistics for Player Names
-                var winningPlayer = playersByScore.FirstOrDefault().Player;
-                var winningStatSheet = _playerStats[winningPlayer.Name];
-                winningStatSheet.Wins++;
+                var winningPlayers = playersByScore.Where(p => p.Score == diceTray1.TopScore)
+                    .Select(p1 => p1.Player).ToList();
+                foreach (var wp in winningPlayers)
+                {
+                    if (_playerStats.ContainsKey(wp.Name))
+                    {
+                        var winningStatSheet = _playerStats[wp.Name];
+                        winningStatSheet.Wins++;
+                    }
+                }
 
                 ProcessGameStatistics();
                 StatsIO.SavePlayerStats(_playerStats.Values.ToList());
@@ -294,6 +307,11 @@ namespace Farkle
                     writer.WriteLine(msg);
                 }
             }
+        }
+
+        private void FarkleGame_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            diceTray1.Stop();
         }
     }
 }

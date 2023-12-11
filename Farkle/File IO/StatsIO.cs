@@ -45,6 +45,14 @@ namespace Farkle.File_IO
             {
                 if (CreateDirectoryIfNotPresent(PLAYER_STATS_FOLDER, out string path))
                 {
+                    var currentStats = LoadPlayerStats();
+                    foreach (var stat in currentStats)
+                    {
+                        if (!stats.Any(s => s.PlayerName == stat.PlayerName))
+                        {
+                            stats.Add(stat);
+                        }
+                    }
                     File.WriteAllText(path, string.Empty);
                     using (FileStream fs = File.OpenWrite(path))
                     using (StreamWriter writer = new StreamWriter(fs))

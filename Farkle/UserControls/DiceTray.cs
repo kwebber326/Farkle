@@ -20,6 +20,7 @@ namespace Farkle.UserControls
         private int _turnScore;
         private bool _canToggle = false;
         private bool _firstRoll = true;
+        private bool _stopped = false;
         private HandValidator _handValidator;
         private FarkleRuleSet _ruleSet;
         private int _rolledDice = 0;
@@ -117,6 +118,11 @@ namespace Farkle.UserControls
         }
         #endregion
 
+        public void Stop()
+        {
+            _stopped = true;
+        }
+
         private void BtnSetAside_Click(object sender, EventArgs e)
         {
             var setAsideDice = GetSetAsideDice();
@@ -181,6 +187,9 @@ namespace Farkle.UserControls
 
         private void BtnRoll_Click(object sender, EventArgs e)
         {
+            if (_stopped)
+                return;
+
             _canToggle = true;
             btnRoll.Enabled = false;
             btnBank.Enabled = false;
@@ -428,6 +437,9 @@ namespace Farkle.UserControls
 
         private void Dice_DiceRolled(object sender, Entities.GameEvents.DiceRollEventArgs e)
         {
+            if (_stopped)
+                return;
+
             var dice = sender as Dice;
             if (dice != null)
             {
