@@ -57,6 +57,54 @@ namespace Farkle
                 case CommonConstants.EVENT_HOT_DICE:
                     stat.HotDiceCount++;
                     break;
+                case CommonConstants.EVENT_SET_ASIDE:
+                    CountSpecialHands(e, stat);
+                    break;
+                case CommonConstants.EVENT_ROLL:
+                    if (e.ExpectedValueOfRoll != null)
+                    {
+                        stat.CalculateRunningAverageAgressiveIndex(e.TurnScore, e.ExpectedValueOfRoll.Value);
+                    }
+                    break;
+            }
+        }
+
+        private static void CountSpecialHands(GameActionEventArgs e, PlayerStats stat)
+        {
+            if (!string.IsNullOrWhiteSpace(e.Hand))
+            {
+                switch (e.Hand)
+                {
+                    case CommonConstants.ONES:
+                    case CommonConstants.TWOS:
+                    case CommonConstants.THREES:
+                    case CommonConstants.FOURS:
+                    case CommonConstants.FIVES:
+                    case CommonConstants.SIXES:
+                        stat.ThreeOfAkindCount++;
+                        break;
+                    case CommonConstants.FOUR_OF_A_KIND:
+                        stat.FourOfAKindCount++;
+                        break;
+                    case CommonConstants.FIVE_OF_A_KIND:
+                        stat.FiveOfAKindCount++;
+                        break;
+                    case CommonConstants.SIX_OF_A_KIND:
+                        stat.SixOfAKindCount++;
+                        break;
+                    case CommonConstants.THREE_PAIR:
+                        stat.ThreePairCount++;
+                        break;
+                    case CommonConstants.FULL_HOUSE:
+                        stat.FullHouseCount++;
+                        break;
+                    case CommonConstants.STRAIGHT:
+                        stat.StraightCount++;
+                        break;
+                    case CommonConstants.TRIPLETS:
+                        stat.TripletsCount++;
+                        break;
+                }
             }
         }
 
@@ -85,6 +133,10 @@ namespace Farkle
             }
 
             stat.Farkles++;
+            if (e.TurnScore > stat.LargestFarkledScore)
+            {
+                stat.LargestFarkledScore = e.TurnScore;
+            }
         }
 
         private static void ManageTurnEndStatistics(GameActionEventArgs e, PlayerStats stat)

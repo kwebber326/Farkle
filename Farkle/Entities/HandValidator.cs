@@ -128,7 +128,6 @@ namespace Farkle.Entities
                     score += handObj.Value;
                 }
             }
-
             return true;
         }
 

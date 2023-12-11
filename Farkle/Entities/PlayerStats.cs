@@ -127,9 +127,9 @@ namespace Farkle.Entities
         public void CalculateRunningAverageAgressiveIndex(int turnScore, double expectedValueOfLastRoll)
         {
             var tScore = (double)(turnScore == 0 ? 1 : turnScore);
-            var agressionIndex = (turnScore - expectedValueOfLastRoll) / tScore;
-            var weightedIndex = (1 / (this.Rolls + 1)) * agressionIndex;
-            var oldWeightedIndex = (this.Rolls) / (this.Rolls + 1) * this.AggresionIndex;
+            var agressionIndex = ((double)turnScore - expectedValueOfLastRoll) / tScore;
+            var weightedIndex = (1.0 / ((double)this.Rolls + 1.0)) * agressionIndex;
+            var oldWeightedIndex = (double)(this.Rolls) / (double)(this.Rolls + 1.0) * this.AggresionIndex;
 
             this.AggresionIndex = oldWeightedIndex + weightedIndex;
             this.Rolls++;

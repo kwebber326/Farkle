@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Farkle.Entities.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +12,9 @@ namespace Farkle.Entities.CustomEventArgs
         public GameLogEntry LogEntryData { get; set; }
 
         public int TurnScore { get; set; }
-        public int DiceRemaining { get; internal set; }
+        public int DiceRemaining { get; set; }
+        public string Hand { get; set; }
+
+        public double? ExpectedValueOfRoll { get; set; }
     }
 }
