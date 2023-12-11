@@ -158,14 +158,14 @@ namespace Farkle
             foreach (var player in players)
             {
                 player.Position = playersByScore.IndexOf(player) + 1;
-              
+
             }
 
             if (_equalTurns && _players.Any(p => p.Score >= this.GameSettings.RuleSet.PointsToWin))
             {
                 //Game Over: show standings
                 this.ShowEndGameDisplay();
-              
+
                 //TODO: compile statistics for Player Names
                 var winningPlayer = playersByScore.FirstOrDefault().Player;
                 var winningStatSheet = _playerStats[winningPlayer.Name];
@@ -196,7 +196,7 @@ namespace Farkle
         }
 
         private void InitializePlayerStats()
-        { 
+        {
             var stats = StatsIO.LoadPlayerStats();
             _playerStats = stats.ToDictionary((s) => s.PlayerName);
             Dictionary<string, PlayerStats> filteredList = new Dictionary<string, PlayerStats>();
@@ -210,7 +210,8 @@ namespace Farkle
                         PlayerName = player.Name
                     };
                 }
-                filteredList.Add(player.Name, playerStat);
+                if (!filteredList.ContainsKey(player.Name))
+                    filteredList.Add(player.Name, playerStat);
             }
             _playerStats = filteredList;
         }
