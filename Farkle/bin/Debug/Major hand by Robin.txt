@@ -1,0 +1,737 @@
+[1/5/2024 7:24:05 PM] Batman begins their turn...
+[1/5/2024 7:24:06 PM] Batman sets aside the FourOfAKind
+[1/5/2024 7:24:06 PM] Total Value Added: 1000
+
+[1/5/2024 7:24:06 PM] Batman has elected to bank 1000 points
+[1/5/2024 7:24:07 PM] Robin begins their turn...
+[1/5/2024 7:24:08 PM] Robin sets aside the SingleOne
+[1/5/2024 7:24:08 PM] Total Value Added: 100
+
+[1/5/2024 7:24:08 PM] Robin Elects to roll with 5 dice remaining...
+[1/5/2024 7:24:09 PM] Robin sets aside the SingleOne
+[1/5/2024 7:24:09 PM] Total Value Added: 100
+
+[1/5/2024 7:24:09 PM] Robin Elects to roll with 4 dice remaining...
+[1/5/2024 7:24:11 PM] Robin Farkled with 4 dice remaining and lost 200 points!
+[1/5/2024 7:24:11 PM] Cat Woman begins their turn...
+[1/5/2024 7:24:12 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:24:12 PM] Total Value Added: 100
+
+[1/5/2024 7:24:12 PM] Cat Woman Elects to roll with 5 dice remaining...
+[1/5/2024 7:24:13 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:24:13 PM] Total Value Added: 50
+
+[1/5/2024 7:24:14 PM] Cat Woman Elects to roll with 4 dice remaining...
+[1/5/2024 7:24:15 PM] Cat Woman Farkled with 4 dice remaining and lost 150 points!
+[1/5/2024 7:24:15 PM] The Joker begins their turn...
+[1/5/2024 7:24:16 PM] The Joker sets aside the FourOfAKind
+[1/5/2024 7:24:16 PM] Total Value Added: 1000
+
+[1/5/2024 7:24:16 PM] The Joker has elected to bank 1000 points
+[1/5/2024 7:24:17 PM] Batman begins their turn...
+[1/5/2024 7:24:18 PM] Batman sets aside the Threes
+[1/5/2024 7:24:18 PM] Total Value Added: 300
+
+[1/5/2024 7:24:18 PM] Batman has elected to bank 300 points
+[1/5/2024 7:24:18 PM] Robin begins their turn...
+[1/5/2024 7:24:19 PM] Robin sets aside the SingleOne
+[1/5/2024 7:24:20 PM] Robin sets aside the SingleOne
+[1/5/2024 7:24:20 PM] Total Value Added: 200
+
+[1/5/2024 7:24:20 PM] Robin Elects to roll with 4 dice remaining...
+[1/5/2024 7:24:21 PM] Robin sets aside the SingleOne
+[1/5/2024 7:24:21 PM] Total Value Added: 100
+
+[1/5/2024 7:24:21 PM] Robin Elects to roll with 3 dice remaining...
+[1/5/2024 7:24:22 PM] Robin sets aside the SingleOne
+[1/5/2024 7:24:22 PM] Total Value Added: 100
+
+[1/5/2024 7:24:23 PM] Robin Elects to roll with 2 dice remaining...
+[1/5/2024 7:24:24 PM] Robin Farkled with 2 dice remaining and lost 400 points!
+[1/5/2024 7:24:24 PM] Cat Woman begins their turn...
+[1/5/2024 7:24:25 PM] Cat Woman sets aside the Twos
+[1/5/2024 7:24:25 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:24:25 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:24:26 PM] Total Value Added: 400
+
+[1/5/2024 7:24:26 PM] Cat Woman Elects to roll with 1 dice remaining...
+[1/5/2024 7:24:27 PM] Cat Woman Farkled with 1 dice remaining and lost 400 points!
+[1/5/2024 7:24:27 PM] The Joker begins their turn...
+[1/5/2024 7:24:28 PM] The Joker sets aside the Triplets
+[1/5/2024 7:24:29 PM] Total Value Added: 2500
+
+[1/5/2024 7:24:29 PM] The Joker got hot dice!!!
+[1/5/2024 7:24:29 PM] The Joker Elects to roll with 6 dice remaining...
+[1/5/2024 7:24:29 PM] The Joker Elects to roll with 6 dice remaining...
+[1/5/2024 7:24:30 PM] The Joker sets aside the Twos
+[1/5/2024 7:24:30 PM] The Joker sets aside the SingleOne
+[1/5/2024 7:24:30 PM] The Joker sets aside the SingleOne
+[1/5/2024 7:24:30 PM] Total Value Added: 400
+
+[1/5/2024 7:24:30 PM] The Joker has elected to bank 2900 points
+[1/5/2024 7:24:30 PM] Batman begins their turn...
+[1/5/2024 7:24:32 PM] Batman sets aside the SingleOne
+[1/5/2024 7:24:32 PM] Total Value Added: 100
+
+[1/5/2024 7:24:32 PM] Batman Elects to roll with 5 dice remaining...
+[1/5/2024 7:24:33 PM] Batman sets aside the Fours
+[1/5/2024 7:24:33 PM] Total Value Added: 400
+
+[1/5/2024 7:24:33 PM] Batman has elected to bank 500 points
+[1/5/2024 7:24:33 PM] Robin begins their turn...
+[1/5/2024 7:24:34 PM] Robin sets aside the Ones
+[1/5/2024 7:24:34 PM] Total Value Added: 300
+
+[1/5/2024 7:24:35 PM] Robin Elects to roll with 3 dice remaining...
+[1/5/2024 7:24:36 PM] Robin sets aside the SingleFive
+[1/5/2024 7:24:36 PM] Total Value Added: 50
+
+[1/5/2024 7:24:36 PM] Robin Elects to roll with 2 dice remaining...
+[1/5/2024 7:24:37 PM] Robin sets aside the SingleFive
+[1/5/2024 7:24:37 PM] Total Value Added: 50
+
+[1/5/2024 7:24:37 PM] Robin Elects to roll with 1 dice remaining...
+[1/5/2024 7:24:39 PM] Robin Farkled with 1 dice remaining and lost 400 points!
+[1/5/2024 7:24:39 PM] Cat Woman begins their turn...
+[1/5/2024 7:24:40 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:24:40 PM] Total Value Added: 100
+
+[1/5/2024 7:24:40 PM] Cat Woman Elects to roll with 5 dice remaining...
+[1/5/2024 7:24:42 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:24:42 PM] Total Value Added: 100
+
+[1/5/2024 7:24:42 PM] Cat Woman Elects to roll with 4 dice remaining...
+[1/5/2024 7:24:43 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:24:43 PM] Total Value Added: 50
+
+[1/5/2024 7:24:43 PM] Cat Woman Elects to roll with 3 dice remaining...
+[1/5/2024 7:24:44 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:24:45 PM] Total Value Added: 100
+
+[1/5/2024 7:24:45 PM] Cat Woman Elects to roll with 2 dice remaining...
+[1/5/2024 7:24:46 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:24:46 PM] Total Value Added: 50
+
+[1/5/2024 7:24:46 PM] Cat Woman Elects to roll with 1 dice remaining...
+[1/5/2024 7:24:47 PM] Cat Woman Farkled with 1 dice remaining and lost 400 points!
+[1/5/2024 7:24:47 PM] The Joker begins their turn...
+[1/5/2024 7:24:49 PM] The Joker sets aside the SingleFive
+[1/5/2024 7:24:49 PM] Total Value Added: 50
+
+[1/5/2024 7:24:49 PM] The Joker Elects to roll with 5 dice remaining...
+[1/5/2024 7:24:50 PM] The Joker sets aside the SingleOne
+[1/5/2024 7:24:50 PM] The Joker sets aside the SingleOne
+[1/5/2024 7:24:50 PM] Total Value Added: 200
+
+[1/5/2024 7:24:50 PM] The Joker has elected to bank 250 points
+[1/5/2024 7:24:50 PM] Batman begins their turn...
+[1/5/2024 7:24:52 PM] Batman sets aside the SingleOne
+[1/5/2024 7:24:52 PM] Batman sets aside the Fives
+[1/5/2024 7:24:52 PM] Total Value Added: 600
+
+[1/5/2024 7:24:52 PM] Batman has elected to bank 600 points
+[1/5/2024 7:24:52 PM] Robin begins their turn...
+[1/5/2024 7:24:53 PM] Robin sets aside the SingleOne
+[1/5/2024 7:24:53 PM] Robin sets aside the SingleOne
+[1/5/2024 7:24:54 PM] Total Value Added: 200
+
+[1/5/2024 7:24:54 PM] Robin Elects to roll with 4 dice remaining...
+[1/5/2024 7:24:55 PM] Robin sets aside the SingleOne
+[1/5/2024 7:24:55 PM] Robin sets aside the SingleOne
+[1/5/2024 7:24:55 PM] Total Value Added: 200
+
+[1/5/2024 7:24:55 PM] Robin Elects to roll with 2 dice remaining...
+[1/5/2024 7:24:56 PM] Robin sets aside the SingleFive
+[1/5/2024 7:24:56 PM] Total Value Added: 50
+
+[1/5/2024 7:24:57 PM] Robin Elects to roll with 1 dice remaining...
+[1/5/2024 7:24:58 PM] Robin Farkled with 1 dice remaining and lost 450 points!
+[1/5/2024 7:24:58 PM] Cat Woman begins their turn...
+[1/5/2024 7:24:59 PM] Cat Woman sets aside the Threes
+[1/5/2024 7:24:59 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:24:59 PM] Total Value Added: 400
+
+[1/5/2024 7:25:00 PM] Cat Woman Elects to roll with 2 dice remaining...
+[1/5/2024 7:25:01 PM] Cat Woman Farkled with 2 dice remaining and lost 400 points!
+[1/5/2024 7:25:01 PM] The Joker begins their turn...
+[1/5/2024 7:25:02 PM] The Joker sets aside the SingleFive
+[1/5/2024 7:25:02 PM] Total Value Added: 50
+
+[1/5/2024 7:25:02 PM] The Joker Elects to roll with 5 dice remaining...
+[1/5/2024 7:25:04 PM] The Joker sets aside the SingleFive
+[1/5/2024 7:25:04 PM] Total Value Added: 50
+
+[1/5/2024 7:25:04 PM] The Joker Elects to roll with 4 dice remaining...
+[1/5/2024 7:25:05 PM] The Joker Farkled with 4 dice remaining and lost 100 points!
+[1/5/2024 7:25:05 PM] Batman begins their turn...
+[1/5/2024 7:25:07 PM] Batman sets aside the SingleOne
+[1/5/2024 7:25:07 PM] Batman sets aside the SingleOne
+[1/5/2024 7:25:07 PM] Total Value Added: 200
+
+[1/5/2024 7:25:07 PM] Batman Elects to roll with 4 dice remaining...
+[1/5/2024 7:25:08 PM] Batman sets aside the SingleFive
+[1/5/2024 7:25:08 PM] Total Value Added: 50
+
+[1/5/2024 7:25:08 PM] Batman Elects to roll with 3 dice remaining...
+[1/5/2024 7:25:10 PM] Batman sets aside the SingleOne
+[1/5/2024 7:25:10 PM] Total Value Added: 100
+
+[1/5/2024 7:25:10 PM] Batman has elected to bank 350 points
+[1/5/2024 7:25:10 PM] Robin begins their turn...
+[1/5/2024 7:25:11 PM] Robin sets aside the SingleFive
+[1/5/2024 7:25:11 PM] Total Value Added: 50
+
+[1/5/2024 7:25:11 PM] Robin Elects to roll with 5 dice remaining...
+[1/5/2024 7:25:13 PM] Robin sets aside the SingleOne
+[1/5/2024 7:25:13 PM] Total Value Added: 100
+
+[1/5/2024 7:25:13 PM] Robin Elects to roll with 4 dice remaining...
+[1/5/2024 7:25:14 PM] Robin sets aside the SingleOne
+[1/5/2024 7:25:14 PM] Robin sets aside the SingleOne
+[1/5/2024 7:25:14 PM] Total Value Added: 200
+
+[1/5/2024 7:25:14 PM] Robin Elects to roll with 2 dice remaining...
+[1/5/2024 7:25:16 PM] Robin sets aside the SingleFive
+[1/5/2024 7:25:16 PM] Total Value Added: 50
+
+[1/5/2024 7:25:16 PM] Robin Elects to roll with 1 dice remaining...
+[1/5/2024 7:25:17 PM] Robin Farkled with 1 dice remaining and lost 400 points!
+[1/5/2024 7:25:17 PM] Cat Woman begins their turn...
+[1/5/2024 7:25:19 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:25:19 PM] Total Value Added: 100
+
+[1/5/2024 7:25:19 PM] Cat Woman Elects to roll with 5 dice remaining...
+[1/5/2024 7:25:20 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:25:20 PM] Total Value Added: 100
+
+[1/5/2024 7:25:20 PM] Cat Woman Elects to roll with 4 dice remaining...
+[1/5/2024 7:25:21 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:25:21 PM] Total Value Added: 50
+
+[1/5/2024 7:25:22 PM] Cat Woman Elects to roll with 3 dice remaining...
+[1/5/2024 7:25:23 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:25:23 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:25:23 PM] Total Value Added: 200
+
+[1/5/2024 7:25:23 PM] Cat Woman Elects to roll with 1 dice remaining...
+[1/5/2024 7:25:24 PM] Cat Woman Farkled with 1 dice remaining and lost 450 points!
+[1/5/2024 7:25:25 PM] The Joker begins their turn...
+[1/5/2024 7:25:26 PM] The Joker sets aside the FourOfAKind
+[1/5/2024 7:25:26 PM] The Joker sets aside the SingleOne
+[1/5/2024 7:25:26 PM] The Joker sets aside the SingleFive
+[1/5/2024 7:25:26 PM] Total Value Added: 1150
+
+[1/5/2024 7:25:26 PM] The Joker got hot dice!!!
+[1/5/2024 7:25:26 PM] The Joker Elects to roll with 6 dice remaining...
+[1/5/2024 7:25:26 PM] The Joker Elects to roll with 6 dice remaining...
+[1/5/2024 7:25:28 PM] The Joker sets aside the Fours
+[1/5/2024 7:25:28 PM] Total Value Added: 400
+
+[1/5/2024 7:25:28 PM] The Joker has elected to bank 1550 points
+[1/5/2024 7:25:28 PM] Batman begins their turn...
+[1/5/2024 7:25:29 PM] Batman sets aside the SingleOne
+[1/5/2024 7:25:29 PM] Total Value Added: 100
+
+[1/5/2024 7:25:29 PM] Batman Elects to roll with 5 dice remaining...
+[1/5/2024 7:25:31 PM] Batman sets aside the SingleOne
+[1/5/2024 7:25:31 PM] Total Value Added: 100
+
+[1/5/2024 7:25:31 PM] Batman Elects to roll with 4 dice remaining...
+[1/5/2024 7:25:32 PM] Batman Farkled with 4 dice remaining and lost 200 points!
+[1/5/2024 7:25:32 PM] Robin begins their turn...
+[1/5/2024 7:25:34 PM] Robin sets aside the SingleOne
+[1/5/2024 7:25:34 PM] Robin sets aside the SingleOne
+[1/5/2024 7:25:34 PM] Total Value Added: 200
+
+[1/5/2024 7:25:34 PM] Robin Elects to roll with 4 dice remaining...
+[1/5/2024 7:25:35 PM] Robin sets aside the SingleOne
+[1/5/2024 7:25:35 PM] Robin sets aside the SingleOne
+[1/5/2024 7:25:35 PM] Total Value Added: 200
+
+[1/5/2024 7:25:35 PM] Robin Elects to roll with 2 dice remaining...
+[1/5/2024 7:25:37 PM] Robin Farkled with 2 dice remaining and lost 400 points!
+[1/5/2024 7:25:37 PM] Cat Woman begins their turn...
+[1/5/2024 7:25:38 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:25:38 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:25:38 PM] Total Value Added: 200
+
+[1/5/2024 7:25:38 PM] Cat Woman Elects to roll with 4 dice remaining...
+[1/5/2024 7:25:40 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:25:40 PM] Total Value Added: 100
+
+[1/5/2024 7:25:40 PM] Cat Woman Elects to roll with 3 dice remaining...
+[1/5/2024 7:25:41 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:25:41 PM] Total Value Added: 100
+
+[1/5/2024 7:25:41 PM] Cat Woman Elects to roll with 2 dice remaining...
+[1/5/2024 7:25:42 PM] Cat Woman Farkled with 2 dice remaining and lost 400 points!
+[1/5/2024 7:25:43 PM] The Joker begins their turn...
+[1/5/2024 7:25:44 PM] The Joker sets aside the SingleOne
+[1/5/2024 7:25:44 PM] The Joker sets aside the Threes
+[1/5/2024 7:25:44 PM] Total Value Added: 400
+
+[1/5/2024 7:25:44 PM] The Joker has elected to bank 400 points
+[1/5/2024 7:25:44 PM] Batman begins their turn...
+[1/5/2024 7:25:46 PM] Batman sets aside the SingleFive
+[1/5/2024 7:25:46 PM] Total Value Added: 50
+
+[1/5/2024 7:25:46 PM] Batman Elects to roll with 5 dice remaining...
+[1/5/2024 7:25:47 PM] Batman sets aside the SingleFive
+[1/5/2024 7:25:47 PM] Total Value Added: 50
+
+[1/5/2024 7:25:47 PM] Batman Elects to roll with 4 dice remaining...
+[1/5/2024 7:25:48 PM] Batman Farkled with 4 dice remaining and lost 100 points!
+[1/5/2024 7:25:49 PM] Robin begins their turn...
+[1/5/2024 7:25:50 PM] Robin sets aside the SingleFive
+[1/5/2024 7:25:50 PM] Robin sets aside the SingleOne
+[1/5/2024 7:25:50 PM] Robin sets aside the FourOfAKind
+[1/5/2024 7:25:50 PM] Total Value Added: 1150
+
+[1/5/2024 7:25:50 PM] Robin got hot dice!!!
+[1/5/2024 7:25:50 PM] Robin Elects to roll with 6 dice remaining...
+[1/5/2024 7:25:50 PM] Robin Elects to roll with 6 dice remaining...
+[1/5/2024 7:25:52 PM] Robin sets aside the ThreePair
+[1/5/2024 7:25:52 PM] Total Value Added: 1500
+
+[1/5/2024 7:25:52 PM] Robin got hot dice!!!
+[1/5/2024 7:25:52 PM] Robin Elects to roll with 6 dice remaining...
+[1/5/2024 7:25:52 PM] Robin Elects to roll with 6 dice remaining...
+[1/5/2024 7:25:53 PM] Robin sets aside the Triplets
+[1/5/2024 7:25:53 PM] Total Value Added: 2500
+
+[1/5/2024 7:25:54 PM] Robin got hot dice!!!
+[1/5/2024 7:25:54 PM] Robin Elects to roll with 6 dice remaining...
+[1/5/2024 7:25:54 PM] Robin Elects to roll with 6 dice remaining...
+[1/5/2024 7:25:55 PM] Robin sets aside the SingleOne
+[1/5/2024 7:25:55 PM] Robin sets aside the SingleOne
+[1/5/2024 7:25:55 PM] Total Value Added: 200
+
+[1/5/2024 7:25:55 PM] Robin has elected to bank 5350 points
+[1/5/2024 7:25:55 PM] Cat Woman begins their turn...
+[1/5/2024 7:25:57 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:25:57 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:25:57 PM] Total Value Added: 200
+
+[1/5/2024 7:25:57 PM] Cat Woman Elects to roll with 4 dice remaining...
+[1/5/2024 7:25:58 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:25:58 PM] Total Value Added: 50
+
+[1/5/2024 7:25:58 PM] Cat Woman Elects to roll with 3 dice remaining...
+[1/5/2024 7:26:00 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:26:00 PM] Total Value Added: 50
+
+[1/5/2024 7:26:00 PM] Cat Woman Elects to roll with 2 dice remaining...
+[1/5/2024 7:26:01 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:26:01 PM] Total Value Added: 50
+
+[1/5/2024 7:26:01 PM] Cat Woman Elects to roll with 1 dice remaining...
+[1/5/2024 7:26:03 PM] Cat Woman Farkled with 1 dice remaining and lost 350 points!
+[1/5/2024 7:26:03 PM] The Joker begins their turn...
+[1/5/2024 7:26:04 PM] The Joker sets aside the SingleOne
+[1/5/2024 7:26:04 PM] Total Value Added: 100
+
+[1/5/2024 7:26:04 PM] The Joker Elects to roll with 5 dice remaining...
+[1/5/2024 7:26:05 PM] The Joker sets aside the SingleOne
+[1/5/2024 7:26:05 PM] Total Value Added: 100
+
+[1/5/2024 7:26:05 PM] The Joker Elects to roll with 4 dice remaining...
+[1/5/2024 7:26:07 PM] The Joker sets aside the SingleOne
+[1/5/2024 7:26:07 PM] Total Value Added: 100
+
+[1/5/2024 7:26:07 PM] The Joker has elected to bank 300 points
+[1/5/2024 7:26:07 PM] Batman begins their turn...
+[1/5/2024 7:26:08 PM] Batman sets aside the FourOfAKind
+[1/5/2024 7:26:08 PM] Total Value Added: 1000
+
+[1/5/2024 7:26:09 PM] Batman has elected to bank 1000 points
+[1/5/2024 7:26:09 PM] Robin begins their turn...
+[1/5/2024 7:26:10 PM] Robin sets aside the SingleOne
+[1/5/2024 7:26:10 PM] Total Value Added: 100
+
+[1/5/2024 7:26:10 PM] Robin Elects to roll with 5 dice remaining...
+[1/5/2024 7:26:11 PM] Robin sets aside the SingleOne
+[1/5/2024 7:26:11 PM] Total Value Added: 100
+
+[1/5/2024 7:26:11 PM] Robin Elects to roll with 4 dice remaining...
+[1/5/2024 7:26:13 PM] Robin sets aside the SingleFive
+[1/5/2024 7:26:13 PM] Total Value Added: 50
+
+[1/5/2024 7:26:13 PM] Robin Elects to roll with 3 dice remaining...
+[1/5/2024 7:26:14 PM] Robin sets aside the SingleFive
+[1/5/2024 7:26:14 PM] Total Value Added: 50
+
+[1/5/2024 7:26:14 PM] Robin has elected to bank 300 points
+[1/5/2024 7:26:14 PM] Cat Woman begins their turn...
+[1/5/2024 7:26:16 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:26:16 PM] Cat Woman sets aside the Twos
+[1/5/2024 7:26:16 PM] Total Value Added: 300
+
+[1/5/2024 7:26:16 PM] Cat Woman Elects to roll with 2 dice remaining...
+[1/5/2024 7:26:17 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:26:17 PM] Total Value Added: 50
+
+[1/5/2024 7:26:17 PM] Cat Woman Elects to roll with 1 dice remaining...
+[1/5/2024 7:26:19 PM] Cat Woman Farkled with 1 dice remaining and lost 350 points!
+[1/5/2024 7:26:19 PM] The Joker begins their turn...
+[1/5/2024 7:26:20 PM] The Joker sets aside the Ones
+[1/5/2024 7:26:20 PM] Total Value Added: 300
+
+[1/5/2024 7:26:20 PM] The Joker has elected to bank 300 points
+[1/5/2024 7:26:21 PM] Batman begins their turn...
+[1/5/2024 7:26:22 PM] Batman sets aside the SingleOne
+[1/5/2024 7:26:22 PM] Batman sets aside the SingleOne
+[1/5/2024 7:26:22 PM] Total Value Added: 200
+
+[1/5/2024 7:26:22 PM] Batman Elects to roll with 4 dice remaining...
+[1/5/2024 7:26:23 PM] Batman sets aside the SingleFive
+[1/5/2024 7:26:23 PM] Total Value Added: 50
+
+[1/5/2024 7:26:24 PM] Batman Elects to roll with 3 dice remaining...
+[1/5/2024 7:26:25 PM] Batman sets aside the SingleOne
+[1/5/2024 7:26:25 PM] Batman sets aside the SingleOne
+[1/5/2024 7:26:25 PM] Batman sets aside the SingleFive
+[1/5/2024 7:26:25 PM] Total Value Added: 250
+
+[1/5/2024 7:26:25 PM] Batman got hot dice!!!
+[1/5/2024 7:26:25 PM] Batman Elects to roll with 6 dice remaining...
+[1/5/2024 7:26:25 PM] Batman Elects to roll with 6 dice remaining...
+[1/5/2024 7:26:27 PM] Batman sets aside the SingleOne
+[1/5/2024 7:26:27 PM] Batman sets aside the SingleOne
+[1/5/2024 7:26:27 PM] Total Value Added: 200
+
+[1/5/2024 7:26:27 PM] Batman Elects to roll with 4 dice remaining...
+[1/5/2024 7:26:28 PM] Batman sets aside the SingleOne
+[1/5/2024 7:26:28 PM] Total Value Added: 100
+
+[1/5/2024 7:26:28 PM] Batman Elects to roll with 3 dice remaining...
+[1/5/2024 7:26:30 PM] Batman sets aside the SingleOne
+[1/5/2024 7:26:30 PM] Batman sets aside the SingleOne
+[1/5/2024 7:26:30 PM] Total Value Added: 200
+
+[1/5/2024 7:26:30 PM] Batman has elected to bank 1000 points
+[1/5/2024 7:26:30 PM] Robin begins their turn...
+[1/5/2024 7:26:31 PM] Robin sets aside the SingleOne
+[1/5/2024 7:26:31 PM] Total Value Added: 100
+
+[1/5/2024 7:26:31 PM] Robin Elects to roll with 5 dice remaining...
+[1/5/2024 7:26:33 PM] Robin sets aside the SingleOne
+[1/5/2024 7:26:33 PM] Total Value Added: 100
+
+[1/5/2024 7:26:33 PM] Robin Elects to roll with 4 dice remaining...
+[1/5/2024 7:26:34 PM] Robin sets aside the SingleOne
+[1/5/2024 7:26:34 PM] Total Value Added: 100
+
+[1/5/2024 7:26:34 PM] Robin Elects to roll with 3 dice remaining...
+[1/5/2024 7:26:36 PM] Robin sets aside the SingleFive
+[1/5/2024 7:26:36 PM] Total Value Added: 50
+
+[1/5/2024 7:26:36 PM] Robin has elected to bank 350 points
+[1/5/2024 7:26:36 PM] Cat Woman begins their turn...
+[1/5/2024 7:26:37 PM] Cat Woman sets aside the Ones
+[1/5/2024 7:26:37 PM] Total Value Added: 300
+
+[1/5/2024 7:26:37 PM] Cat Woman Elects to roll with 3 dice remaining...
+[1/5/2024 7:26:39 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:26:39 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:26:39 PM] Total Value Added: 200
+
+[1/5/2024 7:26:39 PM] Cat Woman Elects to roll with 1 dice remaining...
+[1/5/2024 7:26:40 PM] Cat Woman Farkled with 1 dice remaining and lost 500 points!
+[1/5/2024 7:26:40 PM] The Joker begins their turn...
+[1/5/2024 7:26:42 PM] The Joker sets aside the Sixes
+[1/5/2024 7:26:42 PM] Total Value Added: 600
+
+[1/5/2024 7:26:42 PM] The Joker has elected to bank 600 points
+[1/5/2024 7:26:42 PM] Batman begins their turn...
+[1/5/2024 7:26:43 PM] Batman sets aside the SingleOne
+[1/5/2024 7:26:43 PM] Batman sets aside the SingleOne
+[1/5/2024 7:26:43 PM] Total Value Added: 200
+
+[1/5/2024 7:26:43 PM] Batman Elects to roll with 4 dice remaining...
+[1/5/2024 7:26:45 PM] Batman sets aside the Threes
+[1/5/2024 7:26:45 PM] Total Value Added: 300
+
+[1/5/2024 7:26:45 PM] Batman has elected to bank 500 points
+[1/5/2024 7:26:45 PM] Robin begins their turn...
+[1/5/2024 7:26:46 PM] Robin sets aside the SingleOne
+[1/5/2024 7:26:46 PM] Total Value Added: 100
+
+[1/5/2024 7:26:47 PM] Robin Elects to roll with 5 dice remaining...
+[1/5/2024 7:26:48 PM] Robin sets aside the Fours
+[1/5/2024 7:26:48 PM] Total Value Added: 400
+
+[1/5/2024 7:26:48 PM] Robin has elected to bank 500 points
+[1/5/2024 7:26:48 PM] Cat Woman begins their turn...
+[1/5/2024 7:26:49 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:26:50 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:26:50 PM] Total Value Added: 200
+
+[1/5/2024 7:26:50 PM] Cat Woman Elects to roll with 4 dice remaining...
+[1/5/2024 7:26:51 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:26:51 PM] Total Value Added: 50
+
+[1/5/2024 7:26:51 PM] Cat Woman Elects to roll with 3 dice remaining...
+[1/5/2024 7:26:52 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:26:53 PM] Total Value Added: 50
+
+[1/5/2024 7:26:53 PM] Cat Woman Elects to roll with 2 dice remaining...
+[1/5/2024 7:26:54 PM] Cat Woman Farkled with 2 dice remaining and lost 300 points!
+[1/5/2024 7:26:54 PM] The Joker begins their turn...
+[1/5/2024 7:26:55 PM] The Joker sets aside the Fours
+[1/5/2024 7:26:55 PM] Total Value Added: 400
+
+[1/5/2024 7:26:56 PM] The Joker has elected to bank 400 points
+[1/5/2024 7:26:56 PM] Batman begins their turn...
+[1/5/2024 7:26:57 PM] Batman sets aside the SingleOne
+[1/5/2024 7:26:57 PM] Total Value Added: 100
+
+[1/5/2024 7:26:57 PM] Batman Elects to roll with 5 dice remaining...
+[1/5/2024 7:26:58 PM] Batman sets aside the SingleOne
+[1/5/2024 7:26:58 PM] Total Value Added: 100
+
+[1/5/2024 7:26:58 PM] Batman Elects to roll with 4 dice remaining...
+[1/5/2024 7:27:00 PM] Batman Farkled with 4 dice remaining and lost 200 points!
+[1/5/2024 7:27:00 PM] Robin begins their turn...
+[1/5/2024 7:27:01 PM] Robin sets aside the SingleOne
+[1/5/2024 7:27:01 PM] Robin sets aside the SingleOne
+[1/5/2024 7:27:01 PM] Total Value Added: 200
+
+[1/5/2024 7:27:01 PM] Robin Elects to roll with 4 dice remaining...
+[1/5/2024 7:27:03 PM] Robin sets aside the Threes
+[1/5/2024 7:27:03 PM] Total Value Added: 300
+
+[1/5/2024 7:27:03 PM] Robin has elected to bank 500 points
+[1/5/2024 7:27:03 PM] Cat Woman begins their turn...
+[1/5/2024 7:27:04 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:27:04 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:27:04 PM] Total Value Added: 200
+
+[1/5/2024 7:27:05 PM] Cat Woman Elects to roll with 4 dice remaining...
+[1/5/2024 7:27:06 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:27:06 PM] Total Value Added: 50
+
+[1/5/2024 7:27:06 PM] Cat Woman Elects to roll with 3 dice remaining...
+[1/5/2024 7:27:07 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:27:07 PM] Total Value Added: 50
+
+[1/5/2024 7:27:07 PM] Cat Woman Elects to roll with 2 dice remaining...
+[1/5/2024 7:27:09 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:27:09 PM] Total Value Added: 50
+
+[1/5/2024 7:27:09 PM] Cat Woman Elects to roll with 1 dice remaining...
+[1/5/2024 7:27:10 PM] Cat Woman Farkled with 1 dice remaining and lost 350 points!
+[1/5/2024 7:27:10 PM] The Joker begins their turn...
+[1/5/2024 7:27:12 PM] The Joker sets aside the Threes
+[1/5/2024 7:27:12 PM] The Joker sets aside the SingleOne
+[1/5/2024 7:27:12 PM] Total Value Added: 400
+
+[1/5/2024 7:27:12 PM] The Joker has elected to bank 400 points
+[1/5/2024 7:27:12 PM] Batman begins their turn...
+[1/5/2024 7:27:13 PM] Batman sets aside the Sixes
+[1/5/2024 7:27:13 PM] Total Value Added: 600
+
+[1/5/2024 7:27:14 PM] Batman Elects to roll with 3 dice remaining...
+[1/5/2024 7:27:15 PM] Batman Farkled with 3 dice remaining and lost 600 points!
+[1/5/2024 7:27:15 PM] Robin begins their turn...
+[1/5/2024 7:27:16 PM] Robin sets aside the ThreePair
+[1/5/2024 7:27:16 PM] Total Value Added: 1500
+
+[1/5/2024 7:27:17 PM] Robin got hot dice!!!
+[1/5/2024 7:27:17 PM] Robin Elects to roll with 6 dice remaining...
+[1/5/2024 7:27:17 PM] Robin Elects to roll with 6 dice remaining...
+[1/5/2024 7:27:18 PM] Robin sets aside the SingleOne
+[1/5/2024 7:27:18 PM] Total Value Added: 100
+
+[1/5/2024 7:27:18 PM] Robin has elected to bank 1600 points
+[1/5/2024 7:27:18 PM] Cat Woman begins their turn...
+[1/5/2024 7:27:20 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:27:20 PM] Total Value Added: 50
+
+[1/5/2024 7:27:20 PM] Cat Woman Elects to roll with 5 dice remaining...
+[1/5/2024 7:27:21 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:27:21 PM] Total Value Added: 100
+
+[1/5/2024 7:27:21 PM] Cat Woman Elects to roll with 4 dice remaining...
+[1/5/2024 7:27:22 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:27:22 PM] Total Value Added: 50
+
+[1/5/2024 7:27:23 PM] Cat Woman Elects to roll with 3 dice remaining...
+[1/5/2024 7:27:24 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:27:24 PM] Total Value Added: 100
+
+[1/5/2024 7:27:24 PM] Cat Woman Elects to roll with 2 dice remaining...
+[1/5/2024 7:27:25 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:27:25 PM] Total Value Added: 100
+
+[1/5/2024 7:27:25 PM] Cat Woman Elects to roll with 1 dice remaining...
+[1/5/2024 7:27:27 PM] Cat Woman Farkled with 1 dice remaining and lost 400 points!
+[1/5/2024 7:27:27 PM] The Joker begins their turn...
+[1/5/2024 7:27:28 PM] The Joker sets aside the Fours
+[1/5/2024 7:27:28 PM] Total Value Added: 400
+
+[1/5/2024 7:27:28 PM] The Joker has elected to bank 400 points
+[1/5/2024 7:27:28 PM] Batman begins their turn...
+[1/5/2024 7:27:30 PM] Batman sets aside the Fours
+[1/5/2024 7:27:30 PM] Total Value Added: 400
+
+[1/5/2024 7:27:30 PM] Batman Elects to roll with 3 dice remaining...
+[1/5/2024 7:27:31 PM] Batman sets aside the SingleOne
+[1/5/2024 7:27:31 PM] Total Value Added: 100
+
+[1/5/2024 7:27:31 PM] Batman Elects to roll with 2 dice remaining...
+[1/5/2024 7:27:33 PM] Batman sets aside the SingleOne
+[1/5/2024 7:27:33 PM] Total Value Added: 100
+
+[1/5/2024 7:27:33 PM] Batman Elects to roll with 1 dice remaining...
+[1/5/2024 7:27:34 PM] Batman sets aside the SingleFive
+[1/5/2024 7:27:34 PM] Total Value Added: 50
+
+[1/5/2024 7:27:34 PM] Batman got hot dice!!!
+[1/5/2024 7:27:34 PM] Batman Elects to roll with 6 dice remaining...
+[1/5/2024 7:27:34 PM] Batman Elects to roll with 6 dice remaining...
+[1/5/2024 7:27:36 PM] Batman sets aside the Sixes
+[1/5/2024 7:27:36 PM] Total Value Added: 600
+
+[1/5/2024 7:27:36 PM] Batman Elects to roll with 3 dice remaining...
+[1/5/2024 7:27:37 PM] Batman sets aside the SingleFive
+[1/5/2024 7:27:37 PM] Total Value Added: 50
+
+[1/5/2024 7:27:37 PM] Batman has elected to bank 1300 points
+[1/5/2024 7:27:37 PM] Robin begins their turn...
+[1/5/2024 7:27:39 PM] Robin sets aside the Fives
+[1/5/2024 7:27:39 PM] Total Value Added: 500
+
+[1/5/2024 7:27:39 PM] Robin has elected to bank 500 points
+[1/5/2024 7:27:39 PM] Cat Woman begins their turn...
+[1/5/2024 7:27:40 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:27:40 PM] Total Value Added: 100
+
+[1/5/2024 7:27:41 PM] Cat Woman Elects to roll with 5 dice remaining...
+[1/5/2024 7:27:42 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:27:42 PM] Total Value Added: 100
+
+[1/5/2024 7:27:42 PM] Cat Woman Elects to roll with 4 dice remaining...
+[1/5/2024 7:27:43 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:27:43 PM] Total Value Added: 100
+
+[1/5/2024 7:27:43 PM] Cat Woman Elects to roll with 3 dice remaining...
+[1/5/2024 7:27:45 PM] Cat Woman Farkled with 3 dice remaining and lost 300 points!
+[1/5/2024 7:27:45 PM] The Joker begins their turn...
+[1/5/2024 7:27:46 PM] The Joker sets aside the SingleOne
+[1/5/2024 7:27:46 PM] Total Value Added: 100
+
+[1/5/2024 7:27:46 PM] The Joker Elects to roll with 5 dice remaining...
+[1/5/2024 7:27:48 PM] The Joker sets aside the SingleOne
+[1/5/2024 7:27:48 PM] Total Value Added: 100
+
+[1/5/2024 7:27:48 PM] The Joker Elects to roll with 4 dice remaining...
+[1/5/2024 7:27:49 PM] The Joker sets aside the SingleFive
+[1/5/2024 7:27:49 PM] Total Value Added: 50
+
+[1/5/2024 7:27:49 PM] The Joker Elects to roll with 3 dice remaining...
+[1/5/2024 7:27:51 PM] The Joker sets aside the SingleFive
+[1/5/2024 7:27:51 PM] Total Value Added: 50
+
+[1/5/2024 7:27:51 PM] The Joker Elects to roll with 2 dice remaining...
+[1/5/2024 7:27:52 PM] The Joker Farkled with 2 dice remaining and lost 300 points!
+[1/5/2024 7:27:52 PM] Batman begins their turn...
+[1/5/2024 7:27:53 PM] Batman Farkled with 6 dice remaining and lost 0 points!
+[1/5/2024 7:27:54 PM] Robin begins their turn...
+[1/5/2024 7:27:55 PM] Robin sets aside the SingleOne
+[1/5/2024 7:27:55 PM] Total Value Added: 100
+
+[1/5/2024 7:27:55 PM] Robin Elects to roll with 5 dice remaining...
+[1/5/2024 7:27:56 PM] Robin sets aside the Sixes
+[1/5/2024 7:27:56 PM] Total Value Added: 600
+
+[1/5/2024 7:27:56 PM] Robin has elected to bank 700 points
+[1/5/2024 7:27:57 PM] Cat Woman begins their turn...
+[1/5/2024 7:27:58 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:27:58 PM] Total Value Added: 100
+
+[1/5/2024 7:27:58 PM] Cat Woman Elects to roll with 5 dice remaining...
+[1/5/2024 7:27:59 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:27:59 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:27:59 PM] Total Value Added: 200
+
+[1/5/2024 7:28:00 PM] Cat Woman Elects to roll with 3 dice remaining...
+[1/5/2024 7:28:01 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:28:01 PM] Total Value Added: 50
+
+[1/5/2024 7:28:01 PM] Cat Woman Elects to roll with 2 dice remaining...
+[1/5/2024 7:28:02 PM] Cat Woman Farkled with 2 dice remaining and lost 350 points!
+[1/5/2024 7:28:02 PM] The Joker begins their turn...
+[1/5/2024 7:28:04 PM] The Joker sets aside the SingleOne
+[1/5/2024 7:28:04 PM] Total Value Added: 100
+
+[1/5/2024 7:28:04 PM] The Joker Elects to roll with 5 dice remaining...
+[1/5/2024 7:28:05 PM] The Joker sets aside the Fives
+[1/5/2024 7:28:05 PM] Total Value Added: 500
+
+[1/5/2024 7:28:05 PM] The Joker Elects to roll with 2 dice remaining...
+[1/5/2024 7:28:07 PM] The Joker Farkled with 2 dice remaining and lost 600 points!
+[1/5/2024 7:28:07 PM] Batman begins their turn...
+[1/5/2024 7:28:08 PM] Batman sets aside the Straight
+[1/5/2024 7:28:08 PM] Total Value Added: 1500
+
+[1/5/2024 7:28:08 PM] Batman got hot dice!!!
+[1/5/2024 7:28:08 PM] Batman Elects to roll with 6 dice remaining...
+[1/5/2024 7:28:09 PM] Batman Elects to roll with 6 dice remaining...
+[1/5/2024 7:28:10 PM] Batman sets aside the SingleFive
+[1/5/2024 7:28:10 PM] Total Value Added: 50
+
+[1/5/2024 7:28:10 PM] Batman Elects to roll with 5 dice remaining...
+[1/5/2024 7:28:11 PM] Batman sets aside the SingleOne
+[1/5/2024 7:28:11 PM] Total Value Added: 100
+
+[1/5/2024 7:28:11 PM] Batman Elects to roll with 4 dice remaining...
+[1/5/2024 7:28:13 PM] Batman sets aside the SingleFive
+[1/5/2024 7:28:13 PM] Total Value Added: 50
+
+[1/5/2024 7:28:13 PM] Batman Elects to roll with 3 dice remaining...
+[1/5/2024 7:28:14 PM] Batman sets aside the SingleOne
+[1/5/2024 7:28:14 PM] Total Value Added: 100
+
+[1/5/2024 7:28:14 PM] Batman Elects to roll with 2 dice remaining...
+[1/5/2024 7:28:16 PM] Batman Farkled with 2 dice remaining and lost 1800 points!
+[1/5/2024 7:28:16 PM] Robin begins their turn...
+[1/5/2024 7:28:17 PM] Robin sets aside the SingleOne
+[1/5/2024 7:28:17 PM] Total Value Added: 100
+
+[1/5/2024 7:28:17 PM] Robin Elects to roll with 5 dice remaining...
+[1/5/2024 7:28:19 PM] Robin sets aside the Ones
+[1/5/2024 7:28:19 PM] Robin sets aside the SingleFive
+[1/5/2024 7:28:19 PM] Robin sets aside the SingleFive
+[1/5/2024 7:28:19 PM] Total Value Added: 400
+
+[1/5/2024 7:28:19 PM] Robin got hot dice!!!
+[1/5/2024 7:28:19 PM] Robin Elects to roll with 6 dice remaining...
+[1/5/2024 7:28:19 PM] Robin Elects to roll with 6 dice remaining...
+[1/5/2024 7:28:20 PM] Robin sets aside the Fives
+[1/5/2024 7:28:20 PM] Total Value Added: 500
+
+[1/5/2024 7:28:20 PM] Robin has elected to bank 1000 points
+[1/5/2024 7:28:21 PM] Cat Woman begins their turn...
+[1/5/2024 7:28:22 PM] Cat Woman sets aside the SingleOne
+[1/5/2024 7:28:22 PM] Total Value Added: 100
+
+[1/5/2024 7:28:22 PM] Cat Woman Elects to roll with 5 dice remaining...
+[1/5/2024 7:28:23 PM] Cat Woman sets aside the Fives
+[1/5/2024 7:28:23 PM] Total Value Added: 500
+
+[1/5/2024 7:28:24 PM] Cat Woman Elects to roll with 2 dice remaining...
+[1/5/2024 7:28:25 PM] Cat Woman sets aside the SingleFive
+[1/5/2024 7:28:25 PM] Total Value Added: 50
+
+[1/5/2024 7:28:25 PM] Cat Woman Elects to roll with 1 dice remaining...
+[1/5/2024 7:28:26 PM] Cat Woman Farkled with 1 dice remaining and lost 650 points!
+[1/5/2024 7:28:26 PM] The Joker begins their turn...
+[1/5/2024 7:28:28 PM] The Joker sets aside the Sixes
+[1/5/2024 7:28:28 PM] Total Value Added: 600
+
+[1/5/2024 7:28:28 PM] The Joker Elects to roll with 3 dice remaining...
+[1/5/2024 7:28:29 PM] The Joker Farkled with 3 dice remaining and lost 600 points!
+[1/1/0001 12:00:00 AM] Robin has won the game with 10800 points!!!
+[1/1/0001 12:00:00 AM] The Joker scored 8500 points.
+[1/1/0001 12:00:00 AM] Batman scored 6550 points.
+[1/1/0001 12:00:00 AM] Cat Woman scored 0 points.
