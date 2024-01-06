@@ -28,7 +28,13 @@ namespace Farkle
 
         private void TxtSearch_TextChanged(object sender, EventArgs e)
         {
-            _filterStatList = _playerStatList.Where(p => p.PlayerName.Contains(txtSearch.Text)).ToList();
+            _filterStatList = _playerStatList.Where(p => 
+            {
+                var playerName = p.PlayerName?.ToUpper() ?? string.Empty;
+                var searchText = txtSearch.Text?.ToUpper() ?? string.Empty;
+                
+                return playerName.Contains(searchText);
+            }).ToList();
             SetFilteredPlayerList();
         }
 
